@@ -1,0 +1,3237 @@
+{
+  "botw": [
+    {
+      "id": "botw-201",
+      "sourceNumber": "201",
+      "name": "大师之剑",
+      "performance": "攻击力30、入手时武器栏位增加一格；可发出剑气；自动回复耐久；面对灾厄体系及守护者系敌人时攻击力加倍",
+      "location": "不详",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/大师之剑.png"
+    },
+    {
+      "id": "botw-202",
+      "sourceNumber": "202",
+      "name": "木枝",
+      "performance": "攻击力2、无",
+      "location": "海拉鲁平原、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/木枝.png"
+    },
+    {
+      "id": "botw-203",
+      "sourceNumber": "203",
+      "name": "火把",
+      "performance": "攻击力2、使用火将其点着后，可使拿着它进行移动",
+      "location": "海拉鲁大森林、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/火把.png"
+    },
+    {
+      "id": "botw-204",
+      "sourceNumber": "204",
+      "name": "木汤勺",
+      "performance": "攻击力4、无",
+      "location": "海拉鲁平原、塔邦挞边境",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/木汤勺.png"
+    },
+    {
+      "id": "botw-205",
+      "sourceNumber": "205",
+      "name": "飞旋镖",
+      "performance": "攻击力8、投掷出去后会自动回到林克的手中",
+      "location": "西哈特尔、费罗尼草原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/飞旋镖.png"
+    },
+    {
+      "id": "botw-206",
+      "sourceNumber": "206",
+      "name": "弹簧锤",
+      "performance": "攻击力1、最后一击可以把魔物吹飞",
+      "location": "不详",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/弹簧锤.png"
+    },
+    {
+      "id": "botw-207",
+      "sourceNumber": "207",
+      "name": "旅人之剑",
+      "performance": "攻击力5、无",
+      "location": "海拉鲁平原、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/旅人之剑.png"
+    },
+    {
+      "id": "botw-208",
+      "sourceNumber": "208",
+      "name": "士兵之剑",
+      "performance": "攻击力14、无",
+      "location": "海拉鲁平原、费罗尼草原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/士兵之剑.png"
+    },
+    {
+      "id": "botw-209",
+      "sourceNumber": "209",
+      "name": "骑士之剑",
+      "performance": "攻击力26、无",
+      "location": "格鲁德沙漠、塔邦挞边境",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/骑士之剑.png"
+    },
+    {
+      "id": "botw-210",
+      "sourceNumber": "210",
+      "name": "王族之剑",
+      "performance": "攻击力36、无",
+      "location": "塔邦挞边境、阿卡莱高原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/王族之剑.png"
+    },
+    {
+      "id": "botw-211",
+      "sourceNumber": "211",
+      "name": "森民之剑",
+      "performance": "攻击力26、无",
+      "location": "海拉鲁大森林、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/森民之剑.png"
+    },
+    {
+      "id": "botw-212",
+      "sourceNumber": "212",
+      "name": "卓拉之剑",
+      "performance": "攻击力15、无",
+      "location": "拉聂尔大水源、东哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/卓拉之剑.png"
+    },
+    {
+      "id": "botw-213",
+      "sourceNumber": "213",
+      "name": "斩风羽剑",
+      "performance": "攻击力15、无",
+      "location": "塔邦挞边境、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/斩风羽剑.png"
+    },
+    {
+      "id": "botw-214",
+      "sourceNumber": "214",
+      "name": "格鲁德匕首",
+      "performance": "攻击力16、无",
+      "location": "格鲁德高地、格鲁德沙漠",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/格鲁德匕首.png"
+    },
+    {
+      "id": "botw-215",
+      "sourceNumber": "215",
+      "name": "月光匕首",
+      "performance": "攻击力25、无",
+      "location": "格鲁德高地、格鲁德沙漠",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/月光匕首.png"
+    },
+    {
+      "id": "botw-216",
+      "sourceNumber": "216",
+      "name": "七宝匕首",
+      "performance": "攻击力32、无",
+      "location": "格鲁德沙漠",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/七宝匕首.png"
+    },
+    {
+      "id": "botw-217",
+      "sourceNumber": "217",
+      "name": "戒心小刀",
+      "performance": "攻击力15、无",
+      "location": "西哈特尔、海利亚湖",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/戒心小刀.png"
+    },
+    {
+      "id": "botw-218",
+      "sourceNumber": "218",
+      "name": "古代兵装·剑",
+      "performance": "攻击力40、对抗盖侬系和守护者系魔物时攻击力变为原来的1.5倍",
+      "location": "不详",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/古代兵装·剑.png"
+    },
+    {
+      "id": "botw-219",
+      "sourceNumber": "219",
+      "name": "生锈的剑",
+      "performance": "攻击力6、无",
+      "location": "海拉鲁平原、奥尔汀峡谷",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/生锈的剑.png"
+    },
+    {
+      "id": "botw-220",
+      "sourceNumber": "220",
+      "name": "近卫之剑",
+      "performance": "攻击力48、无",
+      "location": "不详",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/近卫之剑.png"
+    },
+    {
+      "id": "botw-221",
+      "sourceNumber": "221",
+      "name": "火焰剑",
+      "performance": "攻击力24、攻击时产生火焰",
+      "location": "海拉鲁平原、东哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/火焰剑.png"
+    },
+    {
+      "id": "botw-222",
+      "sourceNumber": "222",
+      "name": "冰雪剑",
+      "performance": "攻击力20、攻击时产生冰霜",
+      "location": "格鲁德高地、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/冰雪剑.png"
+    },
+    {
+      "id": "botw-223",
+      "sourceNumber": "223",
+      "name": "雷电剑",
+      "performance": "攻击力22、攻击时产生雷电",
+      "location": "海拉鲁平原、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/雷电剑.png"
+    },
+    {
+      "id": "botw-224",
+      "sourceNumber": "224",
+      "name": "波克棒",
+      "performance": "攻击力4、无",
+      "location": "海拉鲁平原、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/波克棒.png"
+    },
+    {
+      "id": "botw-225",
+      "sourceNumber": "225",
+      "name": "尖刺波克棒",
+      "performance": "攻击力12、无",
+      "location": "费罗尼草原、东哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/尖刺波克棒.png"
+    },
+    {
+      "id": "botw-226",
+      "sourceNumber": "226",
+      "name": "龙骨波克棒",
+      "performance": "攻击力24、无",
+      "location": "海拉鲁丘陵、东哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/龙骨波克棒.png"
+    },
+    {
+      "id": "botw-227",
+      "sourceNumber": "227",
+      "name": "蜥蜴飞旋镖",
+      "performance": "攻击力14、投掷出去后会自动回到林克的手中",
+      "location": "海利亚湖、拉聂尔湿地",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/蜥蜴飞旋镖.png"
+    },
+    {
+      "id": "botw-228",
+      "sourceNumber": "228",
+      "name": "强力蜥蜴飞旋镖",
+      "performance": "攻击力24、投掷出去后会自动回到林克的手中",
+      "location": "格鲁德沙漠、塔邦挞边境",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/强力蜥蜴飞旋镖.png"
+    },
+    {
+      "id": "botw-229",
+      "sourceNumber": "229",
+      "name": "三叉蜥蜴飞旋镖",
+      "performance": "攻击力36、投掷出去后会自动回到林克的手中",
+      "location": "海布拉山脉、阿卡莱高原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/三叉蜥蜴飞旋镖.png"
+    },
+    {
+      "id": "botw-230",
+      "sourceNumber": "230",
+      "name": "守护者匕首",
+      "performance": "攻击力20、对抗盖侬系和守护者系魔物时攻击力变为原来的1.3倍",
+      "location": "奥尔汀峡谷、塔邦挞边境",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/守护者匕首.png"
+    },
+    {
+      "id": "botw-231",
+      "sourceNumber": "231",
+      "name": "守护者匕首+",
+      "performance": "攻击力30、对抗盖侬系和守护者系魔物时攻击力变为原来的1.3倍",
+      "location": "格鲁德高地、阿卡莱高原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/守护者匕首+.png"
+    },
+    {
+      "id": "botw-232",
+      "sourceNumber": "232",
+      "name": "守护者匕首++",
+      "performance": "攻击力40、对抗盖侬系和守护者系魔物时攻击力变为原来的1.3倍",
+      "location": "海布拉山脉、阿卡莱高原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/守护者匕首++.png"
+    },
+    {
+      "id": "botw-233",
+      "sourceNumber": "233",
+      "name": "莱尼尔之剑",
+      "performance": "攻击力24、无",
+      "location": "拉聂尔大水源、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/莱尼尔之剑.png"
+    },
+    {
+      "id": "botw-234",
+      "sourceNumber": "234",
+      "name": "兽王剑",
+      "performance": "攻击力36、无",
+      "location": "海拉鲁平原、拉聂尔大水源",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/兽王剑.png"
+    },
+    {
+      "id": "botw-235",
+      "sourceNumber": "235",
+      "name": "兽神剑",
+      "performance": "攻击力58、无",
+      "location": "海拉鲁平原、海布拉山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/兽神剑.png"
+    },
+    {
+      "id": "botw-236",
+      "sourceNumber": "236",
+      "name": "火焰杖",
+      "performance": "攻击力5、挥动时发射出火球",
+      "location": "格鲁德高地、海拉鲁大森林",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/火焰杖.png"
+    },
+    {
+      "id": "botw-237",
+      "sourceNumber": "237",
+      "name": "陨石杖",
+      "performance": "攻击力10、挥动时发射出火球",
+      "location": "海拉鲁平原、海布拉山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/陨石杖.png"
+    },
+    {
+      "id": "botw-238",
+      "sourceNumber": "238",
+      "name": "冰雪杖",
+      "performance": "攻击力5、挥动时发射出冰冻雾气",
+      "location": "格鲁德高地、奥尔汀峡谷",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/冰雪杖.png"
+    },
+    {
+      "id": "botw-239",
+      "sourceNumber": "239",
+      "name": "冰冻杖",
+      "performance": "攻击力10、挥动时发射出冰冻雾气",
+      "location": "格鲁德高地、海布拉山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/冰冻杖.png"
+    },
+    {
+      "id": "botw-240",
+      "sourceNumber": "240",
+      "name": "电击杖",
+      "performance": "攻击力5、挥动时发射出电球",
+      "location": "西哈特尔、海拉鲁丘陵",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/电击杖.png"
+    },
+    {
+      "id": "botw-241",
+      "sourceNumber": "241",
+      "name": "雷电杖",
+      "performance": "攻击力10、挥动时发射出电球",
+      "location": "海拉鲁平原、海拉鲁丘陵",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/雷电杖.png"
+    },
+    {
+      "id": "botw-242",
+      "sourceNumber": "242",
+      "name": "夺命镰刀",
+      "performance": "攻击力16、无",
+      "location": "格鲁德高地、格鲁德沙漠",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/夺命镰刀.png"
+    },
+    {
+      "id": "botw-243",
+      "sourceNumber": "243",
+      "name": "恶魔圆刃",
+      "performance": "攻击力40、无",
+      "location": "不详",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/恶魔圆刃.png"
+    },
+    {
+      "id": "botw-244",
+      "sourceNumber": "244",
+      "name": "必杀之剑",
+      "performance": "攻击力∞、对所有敌人一击必杀，但需要充能",
+      "location": "不详",
+      "detailUrl": "",
+      "imageUrl": ""
+    },
+    {
+      "id": "botw-245",
+      "sourceNumber": "245",
+      "name": "波克布林之骨",
+      "performance": "攻击力5、无",
+      "location": "海拉鲁全境",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/波克布林之骨.png"
+    },
+    {
+      "id": "botw-246",
+      "sourceNumber": "246",
+      "name": "蜥蜴战士之骨",
+      "performance": "攻击力12、投掷出去后会自动回到林克的手中",
+      "location": "海拉鲁全境",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/蜥蜴战士之骨.png"
+    },
+    {
+      "id": "botw-247",
+      "sourceNumber": "247",
+      "name": "克洛格的团扇",
+      "performance": "攻击力1、攻击时产生一阵龙卷风",
+      "location": "海拉鲁平原、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/克洛格的团扇.png"
+    },
+    {
+      "id": "botw-248",
+      "sourceNumber": "248",
+      "name": "农用锄头",
+      "performance": "攻击力16、无",
+      "location": "东哈特尔、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/农用锄头.png"
+    },
+    {
+      "id": "botw-249",
+      "sourceNumber": "249",
+      "name": "船桨",
+      "performance": "攻击力14、无",
+      "location": "东哈特尔、哈特尔海",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/船桨.png"
+    },
+    {
+      "id": "botw-250",
+      "sourceNumber": "250",
+      "name": "樵夫斧头",
+      "performance": "攻击力3、更容易将树木砍倒",
+      "location": "西哈特尔、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/樵夫斧头.png"
+    },
+    {
+      "id": "botw-251",
+      "sourceNumber": "251",
+      "name": "达人斧头",
+      "performance": "攻击力18、更容易破坏矿床",
+      "location": "西哈特尔、格鲁德高地",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/达人斧头.png"
+    },
+    {
+      "id": "botw-252",
+      "sourceNumber": "252",
+      "name": "铁锤",
+      "performance": "攻击力12、更容易破坏矿床",
+      "location": "奥尔汀峡谷、阿卡莱高原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/铁锤.png"
+    },
+    {
+      "id": "botw-253",
+      "sourceNumber": "253",
+      "name": "大飞旋镖",
+      "performance": "攻击力25、投掷出去后会自动回到林克的手中",
+      "location": "西哈特尔、海布拉山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/大飞旋镖.png"
+    },
+    {
+      "id": "botw-254",
+      "sourceNumber": "254",
+      "name": "旅人双手剑",
+      "performance": "攻击力10、无",
+      "location": "海拉鲁平原、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/旅人双手剑.png"
+    },
+    {
+      "id": "botw-255",
+      "sourceNumber": "255",
+      "name": "士兵双手剑",
+      "performance": "攻击力20、无",
+      "location": "海拉鲁平原、费罗尼草原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/士兵双手剑.png"
+    },
+    {
+      "id": "botw-256",
+      "sourceNumber": "256",
+      "name": "骑士双手剑",
+      "performance": "攻击力38、无",
+      "location": "格鲁德沙漠、塔邦挞边境",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/骑士双手剑.png"
+    },
+    {
+      "id": "botw-257",
+      "sourceNumber": "257",
+      "name": "王族双手剑",
+      "performance": "攻击力52、无",
+      "location": "塔邦挞边境、格鲁德沙漠",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/王族双手剑.png"
+    },
+    {
+      "id": "botw-258",
+      "sourceNumber": "258",
+      "name": "卓拉大剑",
+      "performance": "攻击力22、更容易破坏矿床",
+      "location": "拉聂尔大水源、拉聂尔湿地",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/卓拉大剑.png"
+    },
+    {
+      "id": "botw-259",
+      "sourceNumber": "259",
+      "name": "劈石剑",
+      "performance": "攻击力15、更容易破坏矿床",
+      "location": "奥尔汀峡谷、奥尔汀山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/劈石剑.png"
+    },
+    {
+      "id": "botw-260",
+      "sourceNumber": "260",
+      "name": "碎岩剑",
+      "performance": "攻击力42、更容易破坏矿床",
+      "location": "奥尔汀峡谷、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/碎岩剑.png"
+    },
+    {
+      "id": "botw-261",
+      "sourceNumber": "261",
+      "name": "碎岩巨剑",
+      "performance": "攻击力60、更容易破坏矿床",
+      "location": "奥尔汀峡谷",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/碎岩巨剑.png"
+    },
+    {
+      "id": "botw-262",
+      "sourceNumber": "262",
+      "name": "格鲁德双手剑",
+      "performance": "攻击力28、无",
+      "location": "格鲁德高地、海拉鲁丘陵",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/格鲁德双手剑.png"
+    },
+    {
+      "id": "botw-263",
+      "sourceNumber": "263",
+      "name": "戒心长刀",
+      "performance": "攻击力32、无",
+      "location": "西哈特尔、拉聂尔大水源",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/戒心长刀.png"
+    },
+    {
+      "id": "botw-264",
+      "sourceNumber": "264",
+      "name": "静心大剑",
+      "performance": "攻击力50、无",
+      "location": "海拉鲁平原、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/静心大剑.png"
+    },
+    {
+      "id": "botw-265",
+      "sourceNumber": "265",
+      "name": "古代兵装·大剑",
+      "performance": "攻击力55、对抗盖侬系和守护者系魔物时攻击力变为原来的1.5倍",
+      "location": "不详",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/古代兵装·大剑.png"
+    },
+    {
+      "id": "botw-266",
+      "sourceNumber": "266",
+      "name": "生锈的双手剑",
+      "performance": "攻击力12、无",
+      "location": "海拉鲁丘陵、奥尔汀峡谷",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/生锈的双手剑.png"
+    },
+    {
+      "id": "botw-267",
+      "sourceNumber": "267",
+      "name": "近卫双手剑",
+      "performance": "攻击力72、攻击时产生火焰",
+      "location": "不详",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/近卫双手剑.png"
+    },
+    {
+      "id": "botw-268",
+      "sourceNumber": "268",
+      "name": "火焰大剑",
+      "performance": "攻击力34、攻击时产生冰霜",
+      "location": "海拉鲁平原、奥尔汀峡谷",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/火焰大剑.png"
+    },
+    {
+      "id": "botw-269",
+      "sourceNumber": "269",
+      "name": "冰雪大剑",
+      "performance": "攻击力30、攻击时产生雷电",
+      "location": "海布拉山脉、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/冰雪大剑.png"
+    },
+    {
+      "id": "botw-270",
+      "sourceNumber": "270",
+      "name": "雷电大剑",
+      "performance": "攻击力32、无",
+      "location": "海拉鲁平原、塔邦挞边境",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/雷电大剑.png"
+    },
+    {
+      "id": "botw-271",
+      "sourceNumber": "271",
+      "name": "波克棍",
+      "performance": "攻击力6、无",
+      "location": "海拉鲁平原、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/波克棍.png"
+    },
+    {
+      "id": "botw-272",
+      "sourceNumber": "272",
+      "name": "尖刺波克棍",
+      "performance": "攻击力18、无",
+      "location": "费罗尼草原、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/尖刺波克棍.png"
+    },
+    {
+      "id": "botw-273",
+      "sourceNumber": "273",
+      "name": "龙骨波克棍",
+      "performance": "攻击力36、无",
+      "location": "海拉鲁丘陵、哈特尔海",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/龙骨波克棍.png"
+    },
+    {
+      "id": "botw-274",
+      "sourceNumber": "274",
+      "name": "莫力布林棍",
+      "performance": "攻击力9、无",
+      "location": "格鲁德高地、费罗尼草原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/莫力布林棍.png"
+    },
+    {
+      "id": "botw-275",
+      "sourceNumber": "275",
+      "name": "尖刺莫力布林棍",
+      "performance": "攻击力27、无",
+      "location": "海拉鲁平原、阿卡莱高原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/尖刺莫力布林棍.png"
+    },
+    {
+      "id": "botw-276",
+      "sourceNumber": "276",
+      "name": "龙骨莫力布林棍",
+      "performance": "攻击力45、无",
+      "location": "海布拉山脉、奥尔汀山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/龙骨莫力布林棍.png"
+    },
+    {
+      "id": "botw-277",
+      "sourceNumber": "277",
+      "name": "守护者之斧",
+      "performance": "攻击力30、对抗盖侬系和守护者系魔物时攻击力变为原来的1.3倍",
+      "location": "格鲁德沙漠、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/守护者之斧.png"
+    },
+    {
+      "id": "botw-278",
+      "sourceNumber": "278",
+      "name": "守护者之斧+",
+      "performance": "攻击力45、对抗盖侬系和守护者系魔物时攻击力变为原来的1.3倍",
+      "location": "阿卡莱高原、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/守护者之斧+.png"
+    },
+    {
+      "id": "botw-279",
+      "sourceNumber": "279",
+      "name": "守护者之斧++",
+      "performance": "攻击力60、对抗盖侬系和守护者系魔物时攻击力变为原来的1.3倍",
+      "location": "海布拉山脉、格鲁德高地",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/守护者之斧++.png"
+    },
+    {
+      "id": "botw-280",
+      "sourceNumber": "280",
+      "name": "莱尼尔大剑",
+      "performance": "攻击力36、无",
+      "location": "格鲁德高地、塔邦挞边境",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/莱尼尔大剑.png"
+    },
+    {
+      "id": "botw-281",
+      "sourceNumber": "281",
+      "name": "兽王大剑",
+      "performance": "攻击力54、无",
+      "location": "格鲁德高地、海布拉山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/兽王大剑.png"
+    },
+    {
+      "id": "botw-282",
+      "sourceNumber": "282",
+      "name": "兽神大剑",
+      "performance": "攻击力78、无",
+      "location": "海布拉山脉、奥尔汀山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/兽神大剑.png"
+    },
+    {
+      "id": "botw-283",
+      "sourceNumber": "283",
+      "name": "斩风刀",
+      "performance": "攻击力40、攻击时发出剑气",
+      "location": "格鲁德高地、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/斩风刀.png"
+    },
+    {
+      "id": "botw-284",
+      "sourceNumber": "284",
+      "name": "莫力布林之骨",
+      "performance": "攻击力40、无",
+      "location": "海拉鲁全境",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/莫力布林之骨.png"
+    },
+    {
+      "id": "botw-285",
+      "sourceNumber": "285",
+      "name": "木拖把",
+      "performance": "攻击力5、无",
+      "location": "东哈特尔、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/木拖把.png"
+    },
+    {
+      "id": "botw-286",
+      "sourceNumber": "286",
+      "name": "农用钉耙",
+      "performance": "攻击力7、无",
+      "location": "东哈特尔、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/农用钉耙.png"
+    },
+    {
+      "id": "botw-287",
+      "sourceNumber": "287",
+      "name": "渔夫的鱼叉",
+      "performance": "攻击力8、无",
+      "location": "东哈特尔、海利亚湖",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/渔夫的鱼叉.png"
+    },
+    {
+      "id": "botw-288",
+      "sourceNumber": "288",
+      "name": "投枪",
+      "performance": "攻击力6、比其他枪投掷得更远",
+      "location": "西哈特尔、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/投枪.png"
+    },
+    {
+      "id": "botw-289",
+      "sourceNumber": "289",
+      "name": "旅人之枪",
+      "performance": "攻击力3、无",
+      "location": "海拉鲁平原、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/旅人之枪.png"
+    },
+    {
+      "id": "botw-290",
+      "sourceNumber": "290",
+      "name": "士兵之枪",
+      "performance": "攻击力7、无",
+      "location": "海拉鲁平原、费罗尼草原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/士兵之枪.png"
+    },
+    {
+      "id": "botw-291",
+      "sourceNumber": "291",
+      "name": "骑士之枪",
+      "performance": "攻击力13、无",
+      "location": "塔邦挞边境、格鲁德沙漠",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/骑士之枪.png"
+    },
+    {
+      "id": "botw-292",
+      "sourceNumber": "292",
+      "name": "王族之枪",
+      "performance": "攻击力26、无",
+      "location": "格鲁德高地、塔邦挞边境",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/王族之枪.png"
+    },
+    {
+      "id": "botw-293",
+      "sourceNumber": "293",
+      "name": "森民之枪",
+      "performance": "攻击力11、无",
+      "location": "海拉鲁大森林、海拉鲁丘陵",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/森民之枪.png"
+    },
+    {
+      "id": "botw-294",
+      "sourceNumber": "294",
+      "name": "卓拉之枪",
+      "performance": "攻击力9、无",
+      "location": "拉聂尔大水源、海利亚湖",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/卓拉之枪.png"
+    },
+    {
+      "id": "botw-295",
+      "sourceNumber": "295",
+      "name": "银鳞之枪",
+      "performance": "攻击力9、无",
+      "location": "阿卡莱高原、拉聂尔大水源",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/银鳞之枪.png"
+    },
+    {
+      "id": "botw-296",
+      "sourceNumber": "296",
+      "name": "祭祀之枪",
+      "performance": "攻击力14、无",
+      "location": "拉聂尔大水源",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/祭祀之枪.png"
+    },
+    {
+      "id": "botw-297",
+      "sourceNumber": "297",
+      "name": "光鳞之枪",
+      "performance": "攻击力22、无",
+      "location": "拉聂尔大水源",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/光鳞之枪.png"
+    },
+    {
+      "id": "botw-298",
+      "sourceNumber": "298",
+      "name": "削岩棒",
+      "performance": "攻击力14、无",
+      "location": "奥尔汀峡谷、海布拉山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/削岩棒.png"
+    },
+    {
+      "id": "botw-299",
+      "sourceNumber": "299",
+      "name": "斩风羽枪",
+      "performance": "攻击力10、无",
+      "location": "塔邦挞边境、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/斩风羽枪.png"
+    },
+    {
+      "id": "botw-300",
+      "sourceNumber": "300",
+      "name": "格鲁德之枪",
+      "performance": "攻击力16、无",
+      "location": "格鲁德高地、格鲁德沙漠",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/格鲁德之枪.png"
+    },
+    {
+      "id": "botw-301",
+      "sourceNumber": "301",
+      "name": "蜿蜒之枪",
+      "performance": "攻击力12、无",
+      "location": "东哈特尔、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/蜿蜒之枪.png"
+    },
+    {
+      "id": "botw-302",
+      "sourceNumber": "302",
+      "name": "古代兵装·枪",
+      "performance": "攻击力30、无",
+      "location": "不详",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/古代兵装·枪.png"
+    },
+    {
+      "id": "botw-303",
+      "sourceNumber": "303",
+      "name": "生锈的枪",
+      "performance": "攻击力5、无",
+      "location": "海拉鲁平原、海拉鲁大森林",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/生锈的枪.png"
+    },
+    {
+      "id": "botw-304",
+      "sourceNumber": "304",
+      "name": "近卫之枪",
+      "performance": "攻击力32、攻击时产生火焰",
+      "location": "不详",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/近卫之枪.png"
+    },
+    {
+      "id": "botw-305",
+      "sourceNumber": "305",
+      "name": "火焰枪",
+      "performance": "攻击力24、攻击时产生冰霜",
+      "location": "海拉鲁平原、海布拉山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/火焰枪.png"
+    },
+    {
+      "id": "botw-306",
+      "sourceNumber": "306",
+      "name": "冰雪枪",
+      "performance": "攻击力20、攻击时产生雷电",
+      "location": "海布拉山脉、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/冰雪枪.png"
+    },
+    {
+      "id": "botw-307",
+      "sourceNumber": "307",
+      "name": "雷电枪",
+      "performance": "攻击力22、无",
+      "location": "海拉鲁丘陵、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/雷电枪.png"
+    },
+    {
+      "id": "botw-308",
+      "sourceNumber": "308",
+      "name": "波克枪",
+      "performance": "攻击力2、无",
+      "location": "西哈特尔、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/波克枪.png"
+    },
+    {
+      "id": "botw-309",
+      "sourceNumber": "309",
+      "name": "尖刺波克枪",
+      "performance": "攻击力6、无",
+      "location": "费罗尼草原、东哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/尖刺波克枪.png"
+    },
+    {
+      "id": "botw-310",
+      "sourceNumber": "310",
+      "name": "龙骨波克枪",
+      "performance": "攻击力12、无",
+      "location": "哈特尔海、海拉鲁丘陵",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/龙骨波克枪.png"
+    },
+    {
+      "id": "botw-311",
+      "sourceNumber": "311",
+      "name": "莫力布林枪",
+      "performance": "攻击力4、无",
+      "location": "费罗尼草原、格鲁德沙漠",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/莫力布林枪.png"
+    },
+    {
+      "id": "botw-312",
+      "sourceNumber": "312",
+      "name": "尖刺莫力布林枪",
+      "performance": "攻击力9、无",
+      "location": "格鲁德高地、阿卡莱高原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/尖刺莫力布林枪.png"
+    },
+    {
+      "id": "botw-313",
+      "sourceNumber": "313",
+      "name": "龙骨莫力布林枪",
+      "performance": "攻击力15、无",
+      "location": "海布拉山脉、奥尔汀山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/龙骨莫力布林枪.png"
+    },
+    {
+      "id": "botw-314",
+      "sourceNumber": "314",
+      "name": "蜥蜴枪",
+      "performance": "攻击力7、无",
+      "location": "拉聂尔湿地、东哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/蜥蜴枪.png"
+    },
+    {
+      "id": "botw-315",
+      "sourceNumber": "315",
+      "name": "强力蜥蜴枪",
+      "performance": "攻击力12、无",
+      "location": "塔邦挞边境、格鲁德沙漠",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/强力蜥蜴枪.png"
+    },
+    {
+      "id": "botw-316",
+      "sourceNumber": "316",
+      "name": "双头蜥蜴枪",
+      "performance": "攻击力18、对抗盖侬系和守护者系魔物时攻击力变为原来的1.3倍",
+      "location": "奥尔汀峡谷、阿卡莱高原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/双头蜥蜴枪.png"
+    },
+    {
+      "id": "botw-317",
+      "sourceNumber": "317",
+      "name": "守护者之枪",
+      "performance": "攻击力10、对抗盖侬系和守护者系魔物时攻击力变为原来的1.3倍",
+      "location": "海拉鲁平原、海布拉山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/守护者之枪.png"
+    },
+    {
+      "id": "botw-318",
+      "sourceNumber": "318",
+      "name": "守护者之枪+",
+      "performance": "攻击力15、对抗盖侬系和守护者系魔物时攻击力变为原来的1.3倍",
+      "location": "格鲁德高地、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/守护者之枪+.png"
+    },
+    {
+      "id": "botw-319",
+      "sourceNumber": "319",
+      "name": "守护者之枪++",
+      "performance": "攻击力20、无",
+      "location": "海布拉山脉、阿卡莱高原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/守护者之枪++.png"
+    },
+    {
+      "id": "botw-320",
+      "sourceNumber": "320",
+      "name": "莱尼尔之枪",
+      "performance": "攻击力14、无",
+      "location": "格鲁德高地、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/莱尼尔之枪.png"
+    },
+    {
+      "id": "botw-321",
+      "sourceNumber": "321",
+      "name": "兽王枪",
+      "performance": "攻击力20、无",
+      "location": "海拉鲁大森林、深远阿卡莱",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/兽王枪.png"
+    },
+    {
+      "id": "botw-322",
+      "sourceNumber": "322",
+      "name": "兽神枪",
+      "performance": "攻击力30、无",
+      "location": "格鲁德高地、海布拉山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/兽神枪.png"
+    },
+    {
+      "id": "botw-323",
+      "sourceNumber": "323",
+      "name": "光之弓",
+      "performance": "攻击力100、入手时弓箭栏位增加一格；能自动补充光之箭；箭矢射出去后会高速飞行",
+      "location": "不详",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/光之弓箭.png"
+    },
+    {
+      "id": "botw-324",
+      "sourceNumber": "324",
+      "name": "木之弓",
+      "performance": "攻击力4、无",
+      "location": "海拉鲁平原、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/木之弓.png"
+    },
+    {
+      "id": "botw-325",
+      "sourceNumber": "325",
+      "name": "旅人之弓",
+      "performance": "攻击力5、无",
+      "location": "海拉鲁平原、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/旅人之弓.png"
+    },
+    {
+      "id": "botw-326",
+      "sourceNumber": "326",
+      "name": "士兵之弓",
+      "performance": "攻击力14、无",
+      "location": "海拉鲁平原、费罗尼草原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/士兵之弓.png"
+    },
+    {
+      "id": "botw-327",
+      "sourceNumber": "327",
+      "name": "骑士之弓",
+      "performance": "攻击力26、无",
+      "location": "格鲁德沙漠、塔邦挞边境",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/骑士之弓.png"
+    },
+    {
+      "id": "botw-328",
+      "sourceNumber": "328",
+      "name": "王族之弓",
+      "performance": "攻击力38、无",
+      "location": "塔邦挞边境、海布拉山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/王族之弓.png"
+    },
+    {
+      "id": "botw-329",
+      "sourceNumber": "329",
+      "name": "森民之弓",
+      "performance": "攻击力15、拉弓时间短，同时朝三个方向射出三支箭矢",
+      "location": "塔邦挞边境、海拉鲁丘陵",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/森民之弓.png"
+    },
+    {
+      "id": "botw-330",
+      "sourceNumber": "330",
+      "name": "卓拉之弓",
+      "performance": "攻击力15、无",
+      "location": "拉聂尔大水源、阿卡莱高原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/卓拉之弓.png"
+    },
+    {
+      "id": "botw-331",
+      "sourceNumber": "331",
+      "name": "飞燕弓",
+      "performance": "攻击力9、无",
+      "location": "塔邦挞边境、海布拉山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/飞燕弓.png"
+    },
+    {
+      "id": "botw-332",
+      "sourceNumber": "332",
+      "name": "游隼弓",
+      "performance": "攻击力20、无",
+      "location": "塔邦挞边境、海布拉山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/游隼弓.png"
+    },
+    {
+      "id": "botw-333",
+      "sourceNumber": "333",
+      "name": "大鹫弓",
+      "performance": "攻击力28、拉弓时间极短、射程长，同时朝三个方向射出三支箭矢",
+      "location": "塔邦挞边境",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/大鹫弓.png"
+    },
+    {
+      "id": "botw-334",
+      "sourceNumber": "334",
+      "name": "格鲁德之弓",
+      "performance": "攻击力14、拉弓时会自动放大瞄准的地点，射程长",
+      "location": "格鲁德高地、格鲁德沙漠",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/格鲁德之弓.png"
+    },
+    {
+      "id": "botw-335",
+      "sourceNumber": "335",
+      "name": "一心之弓",
+      "performance": "攻击力10、拉弓时会自动放大瞄准的地点，射程长",
+      "location": "西哈特尔、海利亚湖",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/一心之弓.png"
+    },
+    {
+      "id": "botw-336",
+      "sourceNumber": "336",
+      "name": "古代兵装·弓",
+      "performance": "攻击力44、飞行时间长、射程远；射线笔直；对守护者系敌人的威力变为原来的1.5倍",
+      "location": "不详",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/古代兵装·弓.png"
+    },
+    {
+      "id": "botw-337",
+      "sourceNumber": "337",
+      "name": "近卫之弓",
+      "performance": "攻击力50、拉弓时间短，射程较长",
+      "location": "不详",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/近卫之弓.png"
+    },
+    {
+      "id": "botw-338",
+      "sourceNumber": "338",
+      "name": "波克弓",
+      "performance": "攻击力4、无",
+      "location": "海拉鲁平原、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/波克弓.png"
+    },
+    {
+      "id": "botw-339",
+      "sourceNumber": "339",
+      "name": "尖刺波克弓",
+      "performance": "攻击力12、无",
+      "location": "费罗尼草原、东哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/尖刺波克弓.png"
+    },
+    {
+      "id": "botw-340",
+      "sourceNumber": "340",
+      "name": "龙骨波克弓",
+      "performance": "攻击力24、无",
+      "location": "海拉鲁丘陵、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/龙骨波克弓.png"
+    },
+    {
+      "id": "botw-341",
+      "sourceNumber": "341",
+      "name": "蜥蜴弓",
+      "performance": "攻击力14、无",
+      "location": "拉聂尔大水源、拉聂尔湿地",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/蜥蜴弓.png"
+    },
+    {
+      "id": "botw-342",
+      "sourceNumber": "342",
+      "name": "强力蜥蜴弓",
+      "performance": "攻击力25、无",
+      "location": "塔邦挞边境、格鲁德沙漠",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/强力蜥蜴弓.png"
+    },
+    {
+      "id": "botw-343",
+      "sourceNumber": "343",
+      "name": "钢铁蜥蜴弓",
+      "performance": "攻击力36、无",
+      "location": "海布拉山脉、阿卡莱高原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/钢铁蜥蜴弓.png"
+    },
+    {
+      "id": "botw-344",
+      "sourceNumber": "344",
+      "name": "莱尼尔之弓",
+      "performance": "攻击力10、可同时朝三个方向射出三支箭矢",
+      "location": "格鲁德高地、拉聂尔大水源",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/莱尼尔之弓.png"
+    },
+    {
+      "id": "botw-345",
+      "sourceNumber": "345",
+      "name": "兽王弓",
+      "performance": "攻击力20、可同时朝三个方向射出三支箭矢",
+      "location": "海拉鲁平原、深远阿卡莱",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/兽王弓.png"
+    },
+    {
+      "id": "botw-346",
+      "sourceNumber": "346",
+      "name": "兽神弓",
+      "performance": "攻击力32、可同时朝三个方向射出三支箭矢",
+      "location": "海布拉山脉、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/兽神弓.png"
+    },
+    {
+      "id": "botw-347",
+      "sourceNumber": "347",
+      "name": "二连弓",
+      "performance": "攻击力14、轻便，可以连续射出两支箭矢",
+      "location": "格鲁德高地",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/二连弓.png"
+    },
+    {
+      "id": "botw-348",
+      "sourceNumber": "348",
+      "name": "木箭",
+      "performance": "攻击力0、无",
+      "location": "海拉鲁平原、奥尔汀峡谷",
+      "detailUrl": "",
+      "imageUrl": ""
+    },
+    {
+      "id": "botw-349",
+      "sourceNumber": "349",
+      "name": "火箭",
+      "performance": "攻击力0、命中后产生火焰",
+      "location": "海拉鲁平原、奥尔汀峡谷",
+      "detailUrl": "",
+      "imageUrl": ""
+    },
+    {
+      "id": "botw-350",
+      "sourceNumber": "350",
+      "name": "冰箭",
+      "performance": "攻击力0、命中后产生冰霜",
+      "location": "海拉鲁平原、海布拉山脉",
+      "detailUrl": "",
+      "imageUrl": ""
+    },
+    {
+      "id": "botw-351",
+      "sourceNumber": "351",
+      "name": "电箭",
+      "performance": "攻击力0、命中后产生雷电",
+      "location": "拉聂尔大水源、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": ""
+    },
+    {
+      "id": "botw-352",
+      "sourceNumber": "352",
+      "name": "炸弹箭",
+      "performance": "攻击力40、命中后发生爆炸",
+      "location": "海拉鲁平原、东哈特尔",
+      "detailUrl": "",
+      "imageUrl": ""
+    },
+    {
+      "id": "botw-353",
+      "sourceNumber": "353",
+      "name": "古代兵装·箭",
+      "performance": "攻击力50+20、无",
+      "location": "海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": ""
+    },
+    {
+      "id": "botw-354",
+      "sourceNumber": "354",
+      "name": "海利亚盾",
+      "performance": "防御力90、无",
+      "location": "不详",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/海利亚盾.png"
+    },
+    {
+      "id": "botw-355",
+      "sourceNumber": "355",
+      "name": "锅盖",
+      "performance": "防御力1、无",
+      "location": "海拉鲁平原、东哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/锅盖.png"
+    },
+    {
+      "id": "botw-356",
+      "sourceNumber": "356",
+      "name": "木盾",
+      "performance": "防御力2、无",
+      "location": "海拉鲁平原、东哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/木盾.png"
+    },
+    {
+      "id": "botw-357",
+      "sourceNumber": "357",
+      "name": "兽纹盾",
+      "performance": "防御力3、无",
+      "location": "东哈特尔、海布拉山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/兽纹盾.png"
+    },
+    {
+      "id": "botw-358",
+      "sourceNumber": "358",
+      "name": "兔纹盾",
+      "performance": "防御力3、无",
+      "location": "海布拉山脉、拉聂尔湿地",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/兔纹盾.png"
+    },
+    {
+      "id": "botw-359",
+      "sourceNumber": "359",
+      "name": "鱼纹盾",
+      "performance": "防御力3、无",
+      "location": "东哈特尔、海布拉山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/鱼纹盾.png"
+    },
+    {
+      "id": "botw-360",
+      "sourceNumber": "360",
+      "name": "旅人盾",
+      "performance": "防御力4、无",
+      "location": "海拉鲁平原、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/旅人盾.png"
+    },
+    {
+      "id": "botw-361",
+      "sourceNumber": "361",
+      "name": "士兵盾",
+      "performance": "防御力16、无",
+      "location": "塔邦挞边境、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/士兵盾.png"
+    },
+    {
+      "id": "botw-362",
+      "sourceNumber": "362",
+      "name": "骑士盾",
+      "performance": "防御力40、无",
+      "location": "海布拉山脉、奥尔汀山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/骑士盾.png"
+    },
+    {
+      "id": "botw-363",
+      "sourceNumber": "363",
+      "name": "王族盾",
+      "performance": "防御力55、无",
+      "location": "海拉鲁平原、海布拉山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/王族盾.png"
+    },
+    {
+      "id": "botw-364",
+      "sourceNumber": "364",
+      "name": "森民盾",
+      "performance": "防御力30、无",
+      "location": "海拉鲁大森林",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/森民盾.png"
+    },
+    {
+      "id": "botw-365",
+      "sourceNumber": "365",
+      "name": "卓拉盾",
+      "performance": "防御力18、无",
+      "location": "拉聂尔大水源、海利亚湖",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/卓拉盾.png"
+    },
+    {
+      "id": "botw-366",
+      "sourceNumber": "366",
+      "name": "风筝盾",
+      "performance": "防御力14、无",
+      "location": "海布拉山脉、塔邦挞边境",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/风筝盾.png"
+    },
+    {
+      "id": "botw-367",
+      "sourceNumber": "367",
+      "name": "格鲁德盾",
+      "performance": "防御力20、减少在进行盾滑时消耗的耐久力",
+      "location": "格鲁德高地、格鲁德沙漠",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/格鲁德盾.png"
+    },
+    {
+      "id": "botw-368",
+      "sourceNumber": "368",
+      "name": "太阳盾",
+      "performance": "防御力35、在进行盾滑时更容易加速，并且减少消耗的耐久力",
+      "location": "格鲁德高地、格鲁德沙漠",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/太阳盾.png"
+    },
+    {
+      "id": "botw-369",
+      "sourceNumber": "369",
+      "name": "七宝盾",
+      "performance": "防御力48、减少在进行盾滑时消耗的耐久力",
+      "location": "格鲁德沙漠",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/七宝盾.png"
+    },
+    {
+      "id": "botw-370",
+      "sourceNumber": "370",
+      "name": "护心盾",
+      "performance": "防御力16、在进行盾滑时更容易加速",
+      "location": "西哈特尔、东哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/护心盾.png"
+    },
+    {
+      "id": "botw-371",
+      "sourceNumber": "371",
+      "name": "古代兵装·盾",
+      "performance": "防御力70、可自动反弹守护者发射的激光",
+      "location": "不详",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/古代兵装·盾.png"
+    },
+    {
+      "id": "botw-372",
+      "sourceNumber": "372",
+      "name": "生锈的盾",
+      "performance": "防御力3、无",
+      "location": "海拉鲁平原、东哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/生锈的盾.png"
+    },
+    {
+      "id": "botw-373",
+      "sourceNumber": "373",
+      "name": "近卫盾",
+      "performance": "防御力70、在进行盾滑时耐久力将急剧减少",
+      "location": "不详",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/近卫盾.png"
+    },
+    {
+      "id": "botw-374",
+      "sourceNumber": "374",
+      "name": "波克盾",
+      "performance": "防御力3、无",
+      "location": "海拉鲁平原、西哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/波克盾.png"
+    },
+    {
+      "id": "botw-375",
+      "sourceNumber": "375",
+      "name": "尖刺波克盾",
+      "performance": "防御力10、无",
+      "location": "费罗尼草原、东哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/尖刺波克盾.png"
+    },
+    {
+      "id": "botw-376",
+      "sourceNumber": "376",
+      "name": "龙骨波克盾",
+      "performance": "防御力25、无",
+      "location": "海拉鲁丘陵、哈特尔海",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/龙骨波克盾.png"
+    },
+    {
+      "id": "botw-377",
+      "sourceNumber": "377",
+      "name": "蜥蜴盾",
+      "performance": "防御力15、无",
+      "location": "海利亚湖、东哈特尔",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/蜥蜴盾.png"
+    },
+    {
+      "id": "botw-378",
+      "sourceNumber": "378",
+      "name": "强力蜥蜴盾",
+      "performance": "防御力22、无",
+      "location": "塔邦挞边境、格鲁德沙漠",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/强力蜥蜴盾.png"
+    },
+    {
+      "id": "botw-379",
+      "sourceNumber": "379",
+      "name": "钢铁蜥蜴盾",
+      "performance": "防御力35、减少在进行盾滑时消耗的耐久力",
+      "location": "海布拉山脉、阿卡莱高原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/钢铁蜥蜴盾.png"
+    },
+    {
+      "id": "botw-380",
+      "sourceNumber": "380",
+      "name": "守护者之盾",
+      "performance": "防御力18、在拥有防御状态下能够将小型守护者的激光反弹",
+      "location": "西哈特尔、拉聂尔大水源",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/守护者之盾.png"
+    },
+    {
+      "id": "botw-381",
+      "sourceNumber": "381",
+      "name": "守护者之盾+",
+      "performance": "防御力30、在拥有防御状态下能够将小型守护者的激光反弹",
+      "location": "东哈特尔、费罗尼草原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/守护者之盾+.png"
+    },
+    {
+      "id": "botw-382",
+      "sourceNumber": "382",
+      "name": "守护者之盾++",
+      "performance": "防御力42、在拥有防御状态下能够将小型守护者的激光反弹",
+      "location": "格鲁德高地、阿卡莱高原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/守护者之盾++.png"
+    },
+    {
+      "id": "botw-383",
+      "sourceNumber": "383",
+      "name": "莱尼尔盾",
+      "performance": "防御力30、使用盾做出弹反动作时能对敌人产生伤害（攻击力：7）",
+      "location": "拉聂尔大水源、海拉鲁平原",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/莱尼尔盾.png"
+    },
+    {
+      "id": "botw-384",
+      "sourceNumber": "384",
+      "name": "兽王盾",
+      "performance": "防御力44、使用盾做出弹反动作时能对敌人产生伤害（攻击力：13）",
+      "location": "海拉鲁平原、拉聂尔大水源",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/兽王盾.png"
+    },
+    {
+      "id": "botw-385",
+      "sourceNumber": "385",
+      "name": "兽神盾",
+      "performance": "防御力62、使用盾做出弹反动作时能对敌人产生伤害（攻击力：21）",
+      "location": "海拉鲁平原、海布拉山脉",
+      "detailUrl": "",
+      "imageUrl": "/images/旷野之息/兽神盾.png"
+    }
+  ],
+  "totk": [
+    {
+      "id": "totk-330",
+      "sourceNumber": "330",
+      "name": "木枝",
+      "performance": "攻击力2",
+      "location": "初始空岛、拉鲁平原",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%9C%A8%E6%9E%9D",
+      "imageUrl": "/images/王国之泪/木枝.png"
+    },
+    {
+      "id": "totk-331",
+      "sourceNumber": "331",
+      "name": "火把",
+      "performance": "攻击力2",
+      "location": "海拉鲁平原、格鲁德沙漠",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%81%AB%E6%8A%8A",
+      "imageUrl": "/images/王国之泪/火把.png"
+    },
+    {
+      "id": "totk-332",
+      "sourceNumber": "332",
+      "name": "木汤勺",
+      "performance": "攻击力4",
+      "location": "海拉鲁平原、西哈特尔",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%9C%A8%E6%B1%A4%E5%8B%BA",
+      "imageUrl": "/images/王国之泪/木汤勺.png"
+    },
+    {
+      "id": "totk-333",
+      "sourceNumber": "333",
+      "name": "回旋镖",
+      "performance": "攻击力6",
+      "location": "拉聂尔大水源、拉聂尔湿地",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%9B%9E%E6%97%8B%E9%95%96",
+      "imageUrl": "/images/王国之泪/回旋镖.png"
+    },
+    {
+      "id": "totk-334",
+      "sourceNumber": "334",
+      "name": "回旋镖✨",
+      "performance": "攻击力8",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%9B%9E%E6%97%8B%E9%95%96%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/回旋镖✨.png"
+    },
+    {
+      "id": "totk-335",
+      "sourceNumber": "335",
+      "name": "海风回旋镖",
+      "performance": "攻击力16",
+      "location": "海布拉谷采矿场",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%B5%B7%E9%A3%8E%E5%9B%9E%E6%97%8B%E9%95%96",
+      "imageUrl": "/images/王国之泪/海风回旋镖.png"
+    },
+    {
+      "id": "totk-336",
+      "sourceNumber": "336",
+      "name": "旅人之剑",
+      "performance": "攻击力5",
+      "location": "海拉鲁平原、中央海拉鲁地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%97%85%E4%BA%BA%E4%B9%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/旅人之剑.png"
+    },
+    {
+      "id": "totk-337",
+      "sourceNumber": "337",
+      "name": "旅人之剑✨",
+      "performance": "攻击力7",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%97%85%E4%BA%BA%E4%B9%8B%E5%89%91%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/旅人之剑✨.png"
+    },
+    {
+      "id": "totk-338",
+      "sourceNumber": "338",
+      "name": "士兵之剑",
+      "performance": "攻击力6、蓄力速度加快",
+      "location": "海拉鲁平原、奥尔汀峡谷",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%A3%AB%E5%85%B5%E4%B9%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/士兵之剑.png"
+    },
+    {
+      "id": "totk-339",
+      "sourceNumber": "339",
+      "name": "士兵之剑✨",
+      "performance": "攻击力12、蓄力速度加快",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%A3%AB%E5%85%B5%E4%B9%8B%E5%89%91%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/士兵之剑✨.png"
+    },
+    {
+      "id": "totk-340",
+      "sourceNumber": "340",
+      "name": "骑士之剑",
+      "performance": "攻击力7、心心个数小于等于1时强化",
+      "location": "格鲁德沙漠、海拉鲁城堡",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%AA%91%E5%A3%AB%E4%B9%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/骑士之剑.png"
+    },
+    {
+      "id": "totk-341",
+      "sourceNumber": "341",
+      "name": "骑士之剑✨",
+      "performance": "攻击力18、心心个数小于等于1时强化",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%AA%91%E5%A3%AB%E4%B9%8B%E5%89%91%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/骑士之剑✨.png"
+    },
+    {
+      "id": "totk-342",
+      "sourceNumber": "342",
+      "name": "王族之剑",
+      "performance": "攻击力10、突击攻击威力提升",
+      "location": "海拉鲁城堡、格鲁德高地地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%8E%8B%E6%97%8F%E4%B9%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/王族之剑.png"
+    },
+    {
+      "id": "totk-343",
+      "sourceNumber": "343",
+      "name": "王族之剑✨",
+      "performance": "攻击力24、突击攻击威力提升",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%8E%8B%E6%97%8F%E4%B9%8B%E5%89%91%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/王族之剑✨.png"
+    },
+    {
+      "id": "totk-344",
+      "sourceNumber": "344",
+      "name": "森民之剑",
+      "performance": "攻击力7、复活破裂的果实",
+      "location": "奥尔汀山脉、海拉鲁大森林",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%A3%AE%E6%B0%91%E4%B9%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/森民之剑.png"
+    },
+    {
+      "id": "totk-345",
+      "sourceNumber": "345",
+      "name": "森民之剑✨",
+      "performance": "攻击力16、复活破裂的果实",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%A3%AE%E6%B0%91%E4%B9%8B%E5%89%91%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/森民之剑✨.png"
+    },
+    {
+      "id": "totk-346",
+      "sourceNumber": "346",
+      "name": "卓拉之剑",
+      "performance": "攻击力6、被水沾湿后强化",
+      "location": "拉聂尔大水源",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%8D%93%E6%8B%89%E4%B9%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/卓拉之剑.png"
+    },
+    {
+      "id": "totk-347",
+      "sourceNumber": "347",
+      "name": "卓拉之剑✨",
+      "performance": "攻击力12、被水沾湿后强化",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%8D%93%E6%8B%89%E4%B9%8B%E5%89%91%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/卓拉之剑✨.png"
+    },
+    {
+      "id": "totk-348",
+      "sourceNumber": "348",
+      "name": "斩风羽剑",
+      "performance": "攻击力6、吹起风",
+      "location": "海布拉山脉塔、邦挞边境",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%96%A9%E9%A3%8E%E7%BE%BD%E5%89%91",
+      "imageUrl": "/images/王国之泪/斩风羽剑.png"
+    },
+    {
+      "id": "totk-349",
+      "sourceNumber": "349",
+      "name": "斩风羽剑✨",
+      "performance": "攻击力13、吹起风",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%96%A9%E9%A3%8E%E7%BE%BD%E5%89%91%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/斩风羽剑✨.png"
+    },
+    {
+      "id": "totk-350",
+      "sourceNumber": "350",
+      "name": "格鲁德匕首",
+      "performance": "攻击力8、材料攻击力增加",
+      "location": "格鲁德沙漠",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%A0%BC%E9%B2%81%E5%BE%B7%E5%8C%95%E9%A6%96",
+      "imageUrl": "/images/王国之泪/格鲁德匕首.png"
+    },
+    {
+      "id": "totk-351",
+      "sourceNumber": "351",
+      "name": "格鲁德匕首✨",
+      "performance": "攻击力17、材料攻击力增加",
+      "location": "雷之神殿",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%A0%BC%E9%B2%81%E5%BE%B7%E5%8C%95%E9%A6%96%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/格鲁德匕首✨.png"
+    },
+    {
+      "id": "totk-352",
+      "sourceNumber": "352",
+      "name": "七宝匕首",
+      "performance": "攻击力28、材料攻击力增加",
+      "location": "格鲁德小镇",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E4%B8%83%E5%AE%9D%E5%8C%95%E9%A6%96",
+      "imageUrl": "/images/王国之泪/七宝匕首.png"
+    },
+    {
+      "id": "totk-353",
+      "sourceNumber": "353",
+      "name": "戒心小刀",
+      "performance": "攻击力6、偷袭攻击威力提升",
+      "location": "海拉鲁平原、格鲁德高地",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%88%92%E5%BF%83%E5%B0%8F%E5%88%80",
+      "imageUrl": "/images/王国之泪/戒心小刀.png"
+    },
+    {
+      "id": "totk-354",
+      "sourceNumber": "354",
+      "name": "戒心小刀✨",
+      "performance": "攻击力15、偷袭攻击威力提升",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%88%92%E5%BF%83%E5%B0%8F%E5%88%80%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/戒心小刀✨.png"
+    },
+    {
+      "id": "totk-355",
+      "sourceNumber": "355",
+      "name": "生锈的剑",
+      "performance": "攻击力5",
+      "location": "海拉鲁平原、东哈特尔地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%94%9F%E9%94%88%E7%9A%84%E5%89%91",
+      "imageUrl": "/images/王国之泪/生锈的剑.png"
+    },
+    {
+      "id": "totk-356",
+      "sourceNumber": "356",
+      "name": "初始之剑",
+      "performance": "攻击力17",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%88%9D%E5%A7%8B%E4%B9%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/初始之剑.png"
+    },
+    {
+      "id": "totk-357",
+      "sourceNumber": "357",
+      "name": "近卫之剑",
+      "performance": "攻击力22、即将损坏时威力提升",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E8%BF%91%E5%8D%AB%E4%B9%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/近卫之剑.png"
+    },
+    {
+      "id": "totk-358",
+      "sourceNumber": "358",
+      "name": "近卫之剑✨",
+      "performance": "攻击力30、即将损坏时威力提升",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E8%BF%91%E5%8D%AB%E4%B9%8B%E5%89%91%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/近卫之剑✨.png"
+    },
+    {
+      "id": "totk-359",
+      "sourceNumber": "359",
+      "name": "天空的白刃剑",
+      "performance": "攻击力24",
+      "location": "不详、 完成母亲女神像系列任务即可获得",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%A4%A9%E7%A9%BA%E7%9A%84%E7%99%BD%E5%88%83%E5%89%91",
+      "imageUrl": "/images/王国之泪/天空的白刃剑.png"
+    },
+    {
+      "id": "totk-360",
+      "sourceNumber": "360",
+      "name": "木棒",
+      "performance": "攻击力4",
+      "location": "海拉鲁平原、中央海拉鲁地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%9C%A8%E6%A3%92",
+      "imageUrl": "/images/王国之泪/木棒.png"
+    },
+    {
+      "id": "totk-361",
+      "sourceNumber": "361",
+      "name": "结实木棒",
+      "performance": "攻击力5、耐久力高",
+      "location": "海拉鲁平原、东哈特尔",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%BB%93%E5%AE%9E%E6%9C%A8%E6%A3%92",
+      "imageUrl": "/images/王国之泪/结实木棒.png"
+    },
+    {
+      "id": "totk-362",
+      "sourceNumber": "362",
+      "name": "多节木棒",
+      "performance": "攻击力14",
+      "location": "格鲁德沙漠、拉聂尔山",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%A4%9A%E8%8A%82%E6%9C%A8%E6%A3%92",
+      "imageUrl": "/images/王国之泪/多节木棒.png"
+    },
+    {
+      "id": "totk-363",
+      "sourceNumber": "363",
+      "name": "蜥蜴回旋镖",
+      "performance": "攻击力8",
+      "location": "海布拉山脉、拉聂尔山",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E8%9C%A5%E8%9C%B4%E5%9B%9E%E6%97%8B%E9%95%96",
+      "imageUrl": "/images/王国之泪/蜥蜴回旋镖.png"
+    },
+    {
+      "id": "totk-364",
+      "sourceNumber": "364",
+      "name": "左纳尼乌姆之剑",
+      "performance": "攻击力6、使用左纳尼乌姆材料强化",
+      "location": "哈特尔天空诸岛、南奥尔汀天空诸岛",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%B7%A6%E7%BA%B3%E5%B0%BC%E4%B9%8C%E5%A7%86%E4%B9%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/左纳尼乌姆之剑.png"
+    },
+    {
+      "id": "totk-365",
+      "sourceNumber": "365",
+      "name": "左纳尼乌姆之强剑",
+      "performance": "攻击力7、使用左纳尼乌姆材料强化",
+      "location": "拉聂尔天空诸岛、雷鸣之岛",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%B7%A6%E7%BA%B3%E5%B0%BC%E4%B9%8C%E5%A7%86%E4%B9%8B%E5%BC%BA%E5%89%91",
+      "imageUrl": "/images/王国之泪/左纳尼乌姆之强剑.png"
+    },
+    {
+      "id": "totk-366",
+      "sourceNumber": "366",
+      "name": "左纳尼乌姆之刚剑",
+      "performance": "攻击力10、使用左纳尼乌姆材料强化",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%B7%A6%E7%BA%B3%E5%B0%BC%E4%B9%8C%E5%A7%86%E4%B9%8B%E5%88%9A%E5%89%91",
+      "imageUrl": "/images/王国之泪/左纳尼乌姆之刚剑.png"
+    },
+    {
+      "id": "totk-367",
+      "sourceNumber": "367",
+      "name": "魔法杖",
+      "performance": "攻击力6",
+      "location": "格鲁德高地、西哈特尔",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%AD%94%E6%B3%95%E6%9D%96",
+      "imageUrl": "/images/王国之泪/魔法杖.png"
+    },
+    {
+      "id": "totk-368",
+      "sourceNumber": "368",
+      "name": "波克布林之骨",
+      "performance": "攻击力20",
+      "location": "海拉鲁大森林、格鲁德沙漠地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%B3%A2%E5%85%8B%E5%B8%83%E6%9E%97%E4%B9%8B%E9%AA%A8",
+      "imageUrl": "/images/王国之泪/波克布林之骨.png"
+    },
+    {
+      "id": "totk-369",
+      "sourceNumber": "369",
+      "name": "蜥蜴战士之骨",
+      "performance": "攻击力22",
+      "location": "海拉鲁全境",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E8%9C%A5%E8%9C%B4%E6%88%98%E5%A3%AB%E4%B9%8B%E9%AA%A8",
+      "imageUrl": "/images/王国之泪/蜥蜴战士之骨.png"
+    },
+    {
+      "id": "totk-370",
+      "sourceNumber": "370",
+      "name": "瘴气之剑",
+      "performance": "攻击力41、使用后遭受瘴气伤害",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%98%B4%E6%B0%94%E4%B9%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/瘴气之剑.png"
+    },
+    {
+      "id": "totk-371",
+      "sourceNumber": "371",
+      "name": "农用锄头",
+      "performance": "攻击力6",
+      "location": "海拉鲁平原、西哈特尔",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%86%9C%E7%94%A8%E9%94%84%E5%A4%B4",
+      "imageUrl": "/images/王国之泪/农用锄头.png"
+    },
+    {
+      "id": "totk-372",
+      "sourceNumber": "372",
+      "name": "船桨",
+      "performance": "攻击力4",
+      "location": "东哈特尔、哈特尔海",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E8%88%B9%E6%A1%A8",
+      "imageUrl": "/images/王国之泪/船桨.png"
+    },
+    {
+      "id": "totk-373",
+      "sourceNumber": "373",
+      "name": "大回旋镖",
+      "performance": "攻击力11",
+      "location": "海拉鲁平原、奥尔汀峡谷",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%A4%A7%E5%9B%9E%E6%97%8B%E9%95%96",
+      "imageUrl": "/images/王国之泪/大回旋镖.png"
+    },
+    {
+      "id": "totk-374",
+      "sourceNumber": "374",
+      "name": "大回旋镖✨",
+      "performance": "攻击力23",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%A4%A7%E5%9B%9E%E6%97%8B%E9%95%96%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/大回旋镖✨.png"
+    },
+    {
+      "id": "totk-375",
+      "sourceNumber": "375",
+      "name": "旅人双手剑",
+      "performance": "攻击力6",
+      "location": "海拉鲁平原、格鲁德沙漠",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%97%85%E4%BA%BA%E5%8F%8C%E6%89%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/旅人双手剑.png"
+    },
+    {
+      "id": "totk-376",
+      "sourceNumber": "376",
+      "name": "旅人双手剑✨",
+      "performance": "攻击力9",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%97%85%E4%BA%BA%E5%8F%8C%E6%89%8B%E5%89%91%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/旅人双手剑✨.png"
+    },
+    {
+      "id": "totk-377",
+      "sourceNumber": "377",
+      "name": "士兵双手剑",
+      "performance": "攻击力8、蓄力攻击精力提升",
+      "location": "海拉鲁平原、奥尔汀峡谷",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%A3%AB%E5%85%B5%E5%8F%8C%E6%89%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/士兵双手剑.png"
+    },
+    {
+      "id": "totk-378",
+      "sourceNumber": "378",
+      "name": "士兵双手剑✨",
+      "performance": "攻击力16、蓄力攻击精力提升",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%A3%AB%E5%85%B5%E5%8F%8C%E6%89%8B%E5%89%91%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/士兵双手剑✨.png"
+    },
+    {
+      "id": "totk-379",
+      "sourceNumber": "379",
+      "name": "骑士双手剑",
+      "performance": "攻击力11、心心个数小于等于1时强化",
+      "location": "海拉鲁平原、格鲁德沙漠",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%AA%91%E5%A3%AB%E5%8F%8C%E6%89%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/骑士双手剑.png"
+    },
+    {
+      "id": "totk-380",
+      "sourceNumber": "380",
+      "name": "骑士双手剑✨",
+      "performance": "攻击力24、心心个数小于等于1时强化",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%AA%91%E5%A3%AB%E5%8F%8C%E6%89%8B%E5%89%91%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/骑士双手剑✨.png"
+    },
+    {
+      "id": "totk-381",
+      "sourceNumber": "381",
+      "name": "王族双手剑",
+      "performance": "攻击力14、突击攻击威力提升",
+      "location": "初始台地、海拉鲁城堡",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%8E%8B%E6%97%8F%E5%8F%8C%E6%89%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/王族双手剑.png"
+    },
+    {
+      "id": "totk-382",
+      "sourceNumber": "382",
+      "name": "王族双手剑✨",
+      "performance": "攻击力34、突击攻击威力提升",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%8E%8B%E6%97%8F%E5%8F%8C%E6%89%8B%E5%89%91%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/王族双手剑✨.png"
+    },
+    {
+      "id": "totk-383",
+      "sourceNumber": "383",
+      "name": "卓拉大剑",
+      "performance": "攻击力8、被水沾湿后强化",
+      "location": "拉聂尔大水源",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%8D%93%E6%8B%89%E5%A4%A7%E5%89%91",
+      "imageUrl": "/images/王国之泪/卓拉大剑.png"
+    },
+    {
+      "id": "totk-384",
+      "sourceNumber": "384",
+      "name": "卓拉大剑✨",
+      "performance": "攻击力17、被水沾湿后强化",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%8D%93%E6%8B%89%E5%A4%A7%E5%89%91%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/卓拉大剑✨.png"
+    },
+    {
+      "id": "totk-385",
+      "sourceNumber": "385",
+      "name": "劈石剑",
+      "performance": "攻击力9、粉碎效果增强",
+      "location": "奥尔汀峡谷、奥尔汀峡谷地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%8A%88%E7%9F%B3%E5%89%91",
+      "imageUrl": "/images/王国之泪/劈石剑.png"
+    },
+    {
+      "id": "totk-386",
+      "sourceNumber": "386",
+      "name": "劈石剑✨",
+      "performance": "攻击力14、粉碎效果增强",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%8A%88%E7%9F%B3%E5%89%91%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/劈石剑✨.png"
+    },
+    {
+      "id": "totk-387",
+      "sourceNumber": "387",
+      "name": "碎岩巨剑",
+      "performance": "攻击力38、粉碎效果增强",
+      "location": "鼓隆城",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%A2%8E%E5%B2%A9%E5%B7%A8%E5%89%91",
+      "imageUrl": "/images/王国之泪/碎岩巨剑.png"
+    },
+    {
+      "id": "totk-388",
+      "sourceNumber": "388",
+      "name": "大鼓隆之剑",
+      "performance": "攻击力36",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%A4%A7%E9%BC%93%E9%9A%86%E4%B9%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/大鼓隆之剑.png"
+    },
+    {
+      "id": "totk-389",
+      "sourceNumber": "389",
+      "name": "格鲁德双手剑",
+      "performance": "攻击力10、材料攻击力增加",
+      "location": "格鲁德沙漠、格鲁德高地",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%A0%BC%E9%B2%81%E5%BE%B7%E5%8F%8C%E6%89%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/格鲁德双手剑.png"
+    },
+    {
+      "id": "totk-390",
+      "sourceNumber": "390",
+      "name": "格鲁德双手剑✨",
+      "performance": "攻击力22、材料攻击力增加",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%A0%BC%E9%B2%81%E5%BE%B7%E5%8F%8C%E6%89%8B%E5%89%91%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/格鲁德双手剑✨.png"
+    },
+    {
+      "id": "totk-391",
+      "sourceNumber": "391",
+      "name": "戒心长刀",
+      "performance": "攻击力8、释放真空波",
+      "location": "海拉鲁丘陵、格鲁德高地",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%88%92%E5%BF%83%E9%95%BF%E5%88%80",
+      "imageUrl": "/images/王国之泪/戒心长刀.png"
+    },
+    {
+      "id": "totk-392",
+      "sourceNumber": "392",
+      "name": "戒心长刀✨",
+      "performance": "攻击力23、释放真空波",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%88%92%E5%BF%83%E9%95%BF%E5%88%80%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/戒心长刀✨.png"
+    },
+    {
+      "id": "totk-393",
+      "sourceNumber": "393",
+      "name": "黄昏之大剑",
+      "performance": "攻击力32",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%BB%84%E6%98%8F%E4%B9%8B%E5%A4%A7%E5%89%91",
+      "imageUrl": "/images/王国之泪/黄昏之大剑.png"
+    },
+    {
+      "id": "totk-394",
+      "sourceNumber": "394",
+      "name": "鬼神大剑",
+      "performance": "攻击力38",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%AC%BC%E7%A5%9E%E5%A4%A7%E5%89%91",
+      "imageUrl": "/images/王国之泪/鬼神大剑.png"
+    },
+    {
+      "id": "totk-395",
+      "sourceNumber": "395",
+      "name": "生锈的双手剑",
+      "performance": "攻击力6",
+      "location": "海拉鲁平原、奥尔汀峡谷地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%94%9F%E9%94%88%E7%9A%84%E5%8F%8C%E6%89%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/生锈的双手剑.png"
+    },
+    {
+      "id": "totk-396",
+      "sourceNumber": "396",
+      "name": "近卫双手剑",
+      "performance": "攻击力32、即将损坏时威力提升",
+      "location": "海拉鲁城堡塞尔达房间",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E8%BF%91%E5%8D%AB%E5%8F%8C%E6%89%8B%E5%89%91",
+      "imageUrl": "/images/王国之泪/近卫双手剑.png"
+    },
+    {
+      "id": "totk-397",
+      "sourceNumber": "397",
+      "name": "近卫双手剑✨",
+      "performance": "攻击力39、即将损坏时威力提升",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E8%BF%91%E5%8D%AB%E5%8F%8C%E6%89%8B%E5%89%91%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/近卫双手剑✨.png"
+    },
+    {
+      "id": "totk-398",
+      "sourceNumber": "398",
+      "name": "粗棒",
+      "performance": "攻击力5",
+      "location": "海拉鲁平原、海布拉山脉",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%B2%97%E6%A3%92",
+      "imageUrl": "/images/王国之泪/粗棒.png"
+    },
+    {
+      "id": "totk-399",
+      "sourceNumber": "399",
+      "name": "结实粗棒",
+      "performance": "攻击力7、耐久力高",
+      "location": "海拉鲁平原、格鲁德沙漠",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%BB%93%E5%AE%9E%E7%B2%97%E6%A3%92",
+      "imageUrl": "/images/王国之泪/结实粗棒.png"
+    },
+    {
+      "id": "totk-400",
+      "sourceNumber": "400",
+      "name": "多节粗棒",
+      "performance": "攻击力19",
+      "location": "东哈特尔、格鲁德高地",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%A4%9A%E8%8A%82%E7%B2%97%E6%A3%92",
+      "imageUrl": "/images/王国之泪/多节粗棒.png"
+    },
+    {
+      "id": "totk-401",
+      "sourceNumber": "401",
+      "name": "左纳尼乌姆之大剑",
+      "performance": "攻击力8、使用左纳尼乌姆材料强化",
+      "location": "拉聂尔天空诸岛、哈特尔天空诸岛",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%B7%A6%E7%BA%B3%E5%B0%BC%E4%B9%8C%E5%A7%86%E4%B9%8B%E5%A4%A7%E5%89%91",
+      "imageUrl": "/images/王国之泪/左纳尼乌姆之大剑.png"
+    },
+    {
+      "id": "totk-402",
+      "sourceNumber": "402",
+      "name": "左纳尼乌姆之强大剑",
+      "performance": "攻击力10、使用左纳尼乌姆材料强化",
+      "location": "拉聂尔天空诸岛雷鸣之岛",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%B7%A6%E7%BA%B3%E5%B0%BC%E4%B9%8C%E5%A7%86%E4%B9%8B%E5%BC%BA%E5%A4%A7%E5%89%91",
+      "imageUrl": "/images/王国之泪/左纳尼乌姆之强大剑.png"
+    },
+    {
+      "id": "totk-403",
+      "sourceNumber": "403",
+      "name": "左纳尼乌姆之刚大剑",
+      "performance": "攻击力15、使用左纳尼乌姆材料强化",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%B7%A6%E7%BA%B3%E5%B0%BC%E4%B9%8C%E5%A7%86%E4%B9%8B%E5%88%9A%E5%A4%A7%E5%89%91",
+      "imageUrl": "/images/王国之泪/左纳尼乌姆之刚大剑.png"
+    },
+    {
+      "id": "totk-404",
+      "sourceNumber": "404",
+      "name": "魔法大杖",
+      "performance": "攻击力7",
+      "location": "中央海拉鲁地底、拉聂尔山地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%AD%94%E6%B3%95%E5%A4%A7%E6%9D%96",
+      "imageUrl": "/images/王国之泪/魔法大杖.png"
+    },
+    {
+      "id": "totk-405",
+      "sourceNumber": "405",
+      "name": "莫力布林之骨",
+      "performance": "攻击力28",
+      "location": "海拉鲁大森林、深远阿卡莱地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E8%8E%AB%E5%8A%9B%E5%B8%83%E6%9E%97%E4%B9%8B%E9%AA%A8",
+      "imageUrl": "/images/王国之泪/莫力布林之骨.png"
+    },
+    {
+      "id": "totk-406",
+      "sourceNumber": "406",
+      "name": "瘴气金属棒",
+      "performance": "攻击力50、使用后遭受瘴气伤害",
+      "location": "幻影盖侬掉落",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%98%B4%E6%B0%94%E9%87%91%E5%B1%9E%E6%A3%92",
+      "imageUrl": "/images/王国之泪/瘴气金属棒.png"
+    },
+    {
+      "id": "totk-407",
+      "sourceNumber": "407",
+      "name": "木拖把",
+      "performance": "攻击力3",
+      "location": "海拉鲁平原、奥尔汀峡谷",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%9C%A8%E6%8B%96%E6%8A%8A",
+      "imageUrl": "/images/王国之泪/木拖把.png"
+    },
+    {
+      "id": "totk-408",
+      "sourceNumber": "408",
+      "name": "农用钉耙",
+      "performance": "攻击力4",
+      "location": "海拉鲁平原、西哈特尔",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%86%9C%E7%94%A8%E9%92%89%E8%80%99",
+      "imageUrl": "/images/王国之泪/农用钉耙.png"
+    },
+    {
+      "id": "totk-409",
+      "sourceNumber": "409",
+      "name": "渔夫的鱼叉",
+      "performance": "攻击力4",
+      "location": "沃托里村",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%B8%94%E5%A4%AB%E7%9A%84%E9%B1%BC%E5%8F%89",
+      "imageUrl": "/images/王国之泪/渔夫的鱼叉.png"
+    },
+    {
+      "id": "totk-410",
+      "sourceNumber": "410",
+      "name": "投枪",
+      "performance": "攻击力3",
+      "location": "中央海拉鲁地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%8A%95%E6%9E%AA",
+      "imageUrl": "/images/王国之泪/投枪.png"
+    },
+    {
+      "id": "totk-411",
+      "sourceNumber": "411",
+      "name": "投枪✨",
+      "performance": "攻击力8",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%8A%95%E6%9E%AA%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/投枪✨.png"
+    },
+    {
+      "id": "totk-412",
+      "sourceNumber": "412",
+      "name": "旅人之枪",
+      "performance": "攻击力3",
+      "location": "死亡之山、格鲁德高地",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%97%85%E4%BA%BA%E4%B9%8B%E6%9E%AA",
+      "imageUrl": "/images/王国之泪/旅人之枪.png"
+    },
+    {
+      "id": "totk-413",
+      "sourceNumber": "413",
+      "name": "旅人之枪✨",
+      "performance": "攻击力4",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%97%85%E4%BA%BA%E4%B9%8B%E6%9E%AA%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/旅人之枪✨.png"
+    },
+    {
+      "id": "totk-414",
+      "sourceNumber": "414",
+      "name": "士兵之枪",
+      "performance": "攻击力4、蓄力速度加快",
+      "location": "海拉鲁平原、奥尔汀峡谷",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%A3%AB%E5%85%B5%E4%B9%8B%E6%9E%AA",
+      "imageUrl": "/images/王国之泪/士兵之枪.png"
+    },
+    {
+      "id": "totk-415",
+      "sourceNumber": "415",
+      "name": "士兵之枪✨",
+      "performance": "攻击力10、蓄力速度加快",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%A3%AB%E5%85%B5%E4%B9%8B%E6%9E%AA%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/士兵之枪✨.png"
+    },
+    {
+      "id": "totk-416",
+      "sourceNumber": "416",
+      "name": "骑士之枪",
+      "performance": "攻击力6、心心个数小于等于1时强化",
+      "location": "格鲁德沙漠、费罗尼草原",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%AA%91%E5%A3%AB%E4%B9%8B%E6%9E%AA",
+      "imageUrl": "/images/王国之泪/骑士之枪.png"
+    },
+    {
+      "id": "totk-417",
+      "sourceNumber": "417",
+      "name": "骑士之枪✨",
+      "performance": "攻击力14、心心个数小于等于1时强化",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%AA%91%E5%A3%AB%E4%B9%8B%E6%9E%AA%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/骑士之枪✨.png"
+    },
+    {
+      "id": "totk-418",
+      "sourceNumber": "418",
+      "name": "王族之枪",
+      "performance": "攻击力7、突击攻击威力提升",
+      "location": "海拉鲁城堡、东哈特尔",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%8E%8B%E6%97%8F%E4%B9%8B%E6%9E%AA",
+      "imageUrl": "/images/王国之泪/王族之枪.png"
+    },
+    {
+      "id": "totk-419",
+      "sourceNumber": "419",
+      "name": "王族之枪✨",
+      "performance": "攻击力18、突击攻击威力提升",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%8E%8B%E6%97%8F%E4%B9%8B%E6%9E%AA%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/王族之枪✨.png"
+    },
+    {
+      "id": "totk-420",
+      "sourceNumber": "420",
+      "name": "森民之枪",
+      "performance": "攻击力6、复活破裂的果实",
+      "location": "海拉鲁大森林",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%A3%AE%E6%B0%91%E4%B9%8B%E6%9E%AA",
+      "imageUrl": "/images/王国之泪/森民之枪.png"
+    },
+    {
+      "id": "totk-421",
+      "sourceNumber": "421",
+      "name": "森民之枪✨",
+      "performance": "攻击力14、复活破裂的果实",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%A3%AE%E6%B0%91%E4%B9%8B%E6%9E%AA%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/森民之枪✨.png"
+    },
+    {
+      "id": "totk-422",
+      "sourceNumber": "422",
+      "name": "卓拉之枪",
+      "performance": "攻击力6、被水沾湿后强化",
+      "location": "拉聂尔湿地、卓拉台地",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%8D%93%E6%8B%89%E4%B9%8B%E6%9E%AA",
+      "imageUrl": "/images/王国之泪/卓拉之枪.png"
+    },
+    {
+      "id": "totk-423",
+      "sourceNumber": "423",
+      "name": "卓拉之枪✨",
+      "performance": "攻击力11、被水沾湿后强化",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%8D%93%E6%8B%89%E4%B9%8B%E6%9E%AA%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/卓拉之枪✨.png"
+    },
+    {
+      "id": "totk-424",
+      "sourceNumber": "424",
+      "name": "光鳞之枪",
+      "performance": "攻击力22、被水沾湿后强化",
+      "location": "卓拉领地",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%85%89%E9%B3%9E%E4%B9%8B%E6%9E%AA",
+      "imageUrl": "/images/王国之泪/光鳞之枪.png"
+    },
+    {
+      "id": "totk-425",
+      "sourceNumber": "425",
+      "name": "斩风羽枪",
+      "performance": "攻击力4、吹起风",
+      "location": "海布拉山脉、塔邦挞边境",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%96%A9%E9%A3%8E%E7%BE%BD%E6%9E%AA",
+      "imageUrl": "/images/王国之泪/斩风羽枪.png"
+    },
+    {
+      "id": "totk-426",
+      "sourceNumber": "426",
+      "name": "斩风羽枪✨",
+      "performance": "攻击力10、吹起风",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%96%A9%E9%A3%8E%E7%BE%BD%E6%9E%AA%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/斩风羽枪✨.png"
+    },
+    {
+      "id": "totk-427",
+      "sourceNumber": "427",
+      "name": "格鲁德之枪",
+      "performance": "攻击力6、材料攻击力增加",
+      "location": "格鲁德沙漠",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%A0%BC%E9%B2%81%E5%BE%B7%E4%B9%8B%E6%9E%AA",
+      "imageUrl": "/images/王国之泪/格鲁德之枪.png"
+    },
+    {
+      "id": "totk-428",
+      "sourceNumber": "428",
+      "name": "格鲁德之枪✨",
+      "performance": "攻击力12、材料攻击力增加",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%A0%BC%E9%B2%81%E5%BE%B7%E4%B9%8B%E6%9E%AA%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/格鲁德之枪✨.png"
+    },
+    {
+      "id": "totk-429",
+      "sourceNumber": "429",
+      "name": "生锈的枪",
+      "performance": "攻击力3",
+      "location": "海拉鲁平原、东哈特尔",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%94%9F%E9%94%88%E7%9A%84%E6%9E%AA",
+      "imageUrl": "/images/王国之泪/生锈的枪.png"
+    },
+    {
+      "id": "totk-430",
+      "sourceNumber": "430",
+      "name": "近卫之枪",
+      "performance": "攻击力15、即将损坏时威力提升",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E8%BF%91%E5%8D%AB%E4%B9%8B%E6%9E%AA",
+      "imageUrl": "/images/王国之泪/近卫之枪.png"
+    },
+    {
+      "id": "totk-431",
+      "sourceNumber": "431",
+      "name": "近卫之枪✨",
+      "performance": "攻击力24、即将损坏时威力提升",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E8%BF%91%E5%8D%AB%E4%B9%8B%E6%9E%AA%E2%9C%A8",
+      "imageUrl": "/images/王国之泪/近卫之枪✨.png"
+    },
+    {
+      "id": "totk-432",
+      "sourceNumber": "432",
+      "name": "长棒",
+      "performance": "攻击力2",
+      "location": "塔邦挞边境、海布拉山脉",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%95%BF%E6%A3%92",
+      "imageUrl": "/images/王国之泪/长棒.png"
+    },
+    {
+      "id": "totk-433",
+      "sourceNumber": "433",
+      "name": "结实长棒",
+      "performance": "攻击力4、耐久力高",
+      "location": "格鲁德沙漠、东哈特尔地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%BB%93%E5%AE%9E%E9%95%BF%E6%A3%92",
+      "imageUrl": "/images/王国之泪/结实长棒.png"
+    },
+    {
+      "id": "totk-434",
+      "sourceNumber": "434",
+      "name": "多节长棒",
+      "performance": "攻击力10",
+      "location": "格鲁德沙漠",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%A4%9A%E8%8A%82%E9%95%BF%E6%A3%92",
+      "imageUrl": "/images/王国之泪/多节长棒.png"
+    },
+    {
+      "id": "totk-435",
+      "sourceNumber": "435",
+      "name": "左纳尼乌姆之枪",
+      "performance": "攻击力4、使用左纳尼乌姆材料强化",
+      "location": "通往天空的连绵岛屿、拉聂尔天空诸岛",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%B7%A6%E7%BA%B3%E5%B0%BC%E4%B9%8C%E5%A7%86%E4%B9%8B%E6%9E%AA",
+      "imageUrl": "/images/王国之泪/左纳尼乌姆之枪.png"
+    },
+    {
+      "id": "totk-436",
+      "sourceNumber": "436",
+      "name": "左纳尼乌姆之强枪",
+      "performance": "攻击力6、使用左纳尼乌姆材料强化",
+      "location": "拉聂尔天空诸岛、洛美岛",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%B7%A6%E7%BA%B3%E5%B0%BC%E4%B9%8C%E5%A7%86%E4%B9%8B%E5%BC%BA%E6%9E%AA",
+      "imageUrl": "/images/王国之泪/左纳尼乌姆之强枪.png"
+    },
+    {
+      "id": "totk-437",
+      "sourceNumber": "437",
+      "name": "左纳尼乌姆之刚枪",
+      "performance": "攻击力8、使用左纳尼乌姆材料强化",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%B7%A6%E7%BA%B3%E5%B0%BC%E4%B9%8C%E5%A7%86%E4%B9%8B%E5%88%9A%E6%9E%AA",
+      "imageUrl": "/images/王国之泪/左纳尼乌姆之刚枪.png"
+    },
+    {
+      "id": "totk-438",
+      "sourceNumber": "438",
+      "name": "魔法长杖",
+      "performance": "攻击力4",
+      "location": "奥尔汀山脉、北格鲁德天空诸岛",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%AD%94%E6%B3%95%E9%95%BF%E6%9D%96",
+      "imageUrl": "/images/王国之泪/魔法长杖.png"
+    },
+    {
+      "id": "totk-439",
+      "sourceNumber": "439",
+      "name": "瘴气之枪",
+      "performance": "攻击力40、使用后遭受瘴气伤害",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%98%B4%E6%B0%94%E4%B9%8B%E6%9E%AA",
+      "imageUrl": "/images/王国之泪/瘴气之枪.png"
+    },
+    {
+      "id": "totk-440",
+      "sourceNumber": "440",
+      "name": "木箭",
+      "performance": "无",
+      "location": "海拉鲁全境",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%9C%A8%E7%AE%AD",
+      "imageUrl": "/images/王国之泪/木箭.png"
+    },
+    {
+      "id": "totk-441",
+      "sourceNumber": "441",
+      "name": "残旧的木之弓",
+      "performance": "攻击力4",
+      "location": "初始空岛",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%AE%8B%E6%97%A7%E7%9A%84%E6%9C%A8%E4%B9%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/残旧的木之弓.png"
+    },
+    {
+      "id": "totk-442",
+      "sourceNumber": "442",
+      "name": "木之弓",
+      "performance": "攻击力4",
+      "location": "海拉鲁平原、南拉聂尔天空诸岛",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%9C%A8%E4%B9%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/木之弓.png"
+    },
+    {
+      "id": "totk-443",
+      "sourceNumber": "443",
+      "name": "旅人之弓",
+      "performance": "攻击力5",
+      "location": "海拉鲁平原、中央海拉鲁地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%97%85%E4%BA%BA%E4%B9%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/旅人之弓.png"
+    },
+    {
+      "id": "totk-444",
+      "sourceNumber": "444",
+      "name": "士兵之弓",
+      "performance": "攻击力14",
+      "location": "海拉鲁平原、海布拉山脉",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%A3%AB%E5%85%B5%E4%B9%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/士兵之弓.png"
+    },
+    {
+      "id": "totk-445",
+      "sourceNumber": "445",
+      "name": "骑士之弓",
+      "performance": "攻击力26",
+      "location": "格鲁德沙漠、阿卡莱高原",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%AA%91%E5%A3%AB%E4%B9%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/骑士之弓.png"
+    },
+    {
+      "id": "totk-446",
+      "sourceNumber": "446",
+      "name": "王族之弓",
+      "performance": "攻击力38",
+      "location": "海拉鲁平原、中央海拉鲁地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%8E%8B%E6%97%8F%E4%B9%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/王族之弓.png"
+    },
+    {
+      "id": "totk-447",
+      "sourceNumber": "447",
+      "name": "森民之弓",
+      "performance": "攻击力15✖️3",
+      "location": "海拉鲁大森林",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%A3%AE%E6%B0%91%E4%B9%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/森民之弓.png"
+    },
+    {
+      "id": "totk-448",
+      "sourceNumber": "448",
+      "name": "卓拉之弓",
+      "performance": "攻击力20",
+      "location": "拉聂尔大水源",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%8D%93%E6%8B%89%E4%B9%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/卓拉之弓.png"
+    },
+    {
+      "id": "totk-449",
+      "sourceNumber": "449",
+      "name": "飞燕弓",
+      "performance": "攻击力8",
+      "location": "海布拉山脉、塔邦挞边境",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%A3%9E%E7%87%95%E5%BC%93",
+      "imageUrl": "/images/王国之泪/飞燕弓.png"
+    },
+    {
+      "id": "totk-450",
+      "sourceNumber": "450",
+      "name": "游隼弓",
+      "performance": "攻击力14",
+      "location": "塔邦挞边境、海布拉山脉",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%B8%B8%E9%9A%BC%E5%BC%93",
+      "imageUrl": "/images/王国之泪/游隼弓.png"
+    },
+    {
+      "id": "totk-451",
+      "sourceNumber": "451",
+      "name": "大鹫弓",
+      "performance": "攻击力28✖️3",
+      "location": "利特村",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%A4%A7%E9%B9%AB%E5%BC%93",
+      "imageUrl": "/images/王国之泪/大鹫弓.png"
+    },
+    {
+      "id": "totk-452",
+      "sourceNumber": "452",
+      "name": "格鲁德之弓",
+      "performance": "攻击力25",
+      "location": "格鲁德沙漠、格鲁德高地",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%A0%BC%E9%B2%81%E5%BE%B7%E4%B9%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/格鲁德之弓.png"
+    },
+    {
+      "id": "totk-453",
+      "sourceNumber": "453",
+      "name": "一心之弓",
+      "performance": "攻击力10",
+      "location": "东哈特尔、西哈特尔",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E4%B8%80%E5%BF%83%E4%B9%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/一心之弓.png"
+    },
+    {
+      "id": "totk-454",
+      "sourceNumber": "454",
+      "name": "近卫之弓",
+      "performance": "攻击力50",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E8%BF%91%E5%8D%AB%E4%B9%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/近卫之弓.png"
+    },
+    {
+      "id": "totk-455",
+      "sourceNumber": "455",
+      "name": "黄昏之弓",
+      "performance": "攻击力30",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%BB%84%E6%98%8F%E4%B9%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/黄昏之弓.png"
+    },
+    {
+      "id": "totk-456",
+      "sourceNumber": "456",
+      "name": "波克弓",
+      "performance": "攻击力4",
+      "location": "海拉鲁平原、中央海拉鲁地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%B3%A2%E5%85%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/波克弓.png"
+    },
+    {
+      "id": "totk-457",
+      "sourceNumber": "457",
+      "name": "尖刺波克弓",
+      "performance": "攻击力12",
+      "location": "海拉鲁平原、格鲁德高地地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%B0%96%E5%88%BA%E6%B3%A2%E5%85%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/尖刺波克弓.png"
+    },
+    {
+      "id": "totk-458",
+      "sourceNumber": "458",
+      "name": "龙骨波克弓",
+      "performance": "攻击力24",
+      "location": "格鲁德高地、格鲁德高地地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%BE%99%E9%AA%A8%E6%B3%A2%E5%85%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/龙骨波克弓.png"
+    },
+    {
+      "id": "totk-459",
+      "sourceNumber": "459",
+      "name": "蜥蜴弓",
+      "performance": "攻击力14",
+      "location": "拉聂尔湿地、格鲁德沙漠地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E8%9C%A5%E8%9C%B4%E5%BC%93",
+      "imageUrl": "/images/王国之泪/蜥蜴弓.png"
+    },
+    {
+      "id": "totk-460",
+      "sourceNumber": "460",
+      "name": "强力蜥蜴弓",
+      "performance": "攻击力25",
+      "location": "格鲁德沙漠、阿卡莱高原地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%BC%BA%E5%8A%9B%E8%9C%A5%E8%9C%B4%E5%BC%93",
+      "imageUrl": "/images/王国之泪/强力蜥蜴弓.png"
+    },
+    {
+      "id": "totk-461",
+      "sourceNumber": "461",
+      "name": "钢铁蜥蜴弓",
+      "performance": "攻击力36",
+      "location": "格鲁德高地地底、中央海拉鲁地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%92%A2%E9%93%81%E8%9C%A5%E8%9C%B4%E5%BC%93",
+      "imageUrl": "/images/王国之泪/钢铁蜥蜴弓.png"
+    },
+    {
+      "id": "totk-462",
+      "sourceNumber": "462",
+      "name": "莱尼尔之弓",
+      "performance": "攻击力10✖️3",
+      "location": "东哈特尔、深远阿卡莱",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E8%8E%B1%E5%B0%BC%E5%B0%94%E4%B9%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/莱尼尔之弓.png"
+    },
+    {
+      "id": "totk-463",
+      "sourceNumber": "463",
+      "name": "兽王弓",
+      "performance": "攻击力20✖️3",
+      "location": "拉聂尔大水源、阿卡莱高原地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%85%BD%E7%8E%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/兽王弓.png"
+    },
+    {
+      "id": "totk-464",
+      "sourceNumber": "464",
+      "name": "兽神弓",
+      "performance": "攻击力32✖️3",
+      "location": "格鲁德高地、拉聂尔湿地地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%85%BD%E7%A5%9E%E5%BC%93",
+      "imageUrl": "/images/王国之泪/兽神弓.png"
+    },
+    {
+      "id": "totk-465",
+      "sourceNumber": "465",
+      "name": "二连弓",
+      "performance": "攻击力14✖️2",
+      "location": "海拉鲁平原、格鲁德沙漠地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E4%BA%8C%E8%BF%9E%E5%BC%93",
+      "imageUrl": "/images/王国之泪/二连弓.png"
+    },
+    {
+      "id": "totk-466",
+      "sourceNumber": "466",
+      "name": "魔像之弓",
+      "performance": "攻击力5",
+      "location": "南拉聂尔天空诸岛、北格鲁德天空诸岛",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%AD%94%E5%83%8F%E4%B9%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/魔像之弓.png"
+    },
+    {
+      "id": "totk-467",
+      "sourceNumber": "467",
+      "name": "魔像之强弓",
+      "performance": "攻击力11",
+      "location": "通往天空的连绵岛屿、死亡之山地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%AD%94%E5%83%8F%E4%B9%8B%E5%BC%BA%E5%BC%93",
+      "imageUrl": "/images/王国之泪/魔像之强弓.png"
+    },
+    {
+      "id": "totk-468",
+      "sourceNumber": "468",
+      "name": "魔像之刚弓",
+      "performance": "攻击力24",
+      "location": "南拉聂尔天空诸岛、北格鲁德天空诸岛",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%AD%94%E5%83%8F%E4%B9%8B%E5%88%9A%E5%BC%93",
+      "imageUrl": "/images/王国之泪/魔像之刚弓.png"
+    },
+    {
+      "id": "totk-469",
+      "sourceNumber": "469",
+      "name": "左纳尼乌姆之弓",
+      "performance": "攻击力30",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%B7%A6%E7%BA%B3%E5%B0%BC%E4%B9%8C%E5%A7%86%E4%B9%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/左纳尼乌姆之弓.png"
+    },
+    {
+      "id": "totk-470",
+      "sourceNumber": "470",
+      "name": "魔王之弓",
+      "performance": "攻击力20-60",
+      "location": "幻影盖侬掉落",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%AD%94%E7%8E%8B%E4%B9%8B%E5%BC%93",
+      "imageUrl": "/images/王国之泪/魔王之弓.png"
+    },
+    {
+      "id": "totk-471",
+      "sourceNumber": "471",
+      "name": "海利亚盾",
+      "performance": "防御力90",
+      "location": "海拉鲁城堡，不可刷新。",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%B5%B7%E5%88%A9%E4%BA%9A%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/海利亚盾.png"
+    },
+    {
+      "id": "totk-472",
+      "sourceNumber": "472",
+      "name": "锅盖",
+      "performance": "防御力1",
+      "location": "海拉鲁平原、东哈特尔",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%94%85%E7%9B%96",
+      "imageUrl": "/images/王国之泪/锅盖.png"
+    },
+    {
+      "id": "totk-473",
+      "sourceNumber": "473",
+      "name": "残旧的木盾",
+      "performance": "防御力2",
+      "location": "初始空岛、格鲁德沙漠",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%AE%8B%E6%97%A7%E7%9A%84%E6%9C%A8%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/残旧的木盾.png"
+    },
+    {
+      "id": "totk-474",
+      "sourceNumber": "474",
+      "name": "木盾",
+      "performance": "防御力2",
+      "location": "海拉鲁平原、海布拉山脉",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%9C%A8%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/木盾.png"
+    },
+    {
+      "id": "totk-475",
+      "sourceNumber": "475",
+      "name": "兽纹盾",
+      "performance": "防御力3",
+      "location": "西哈特尔、哈特尔",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%85%BD%E7%BA%B9%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/兽纹盾.png"
+    },
+    {
+      "id": "totk-476",
+      "sourceNumber": "476",
+      "name": "兔纹盾",
+      "performance": "防御力3",
+      "location": "塔邦挞边境、海布拉山脉",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%85%94%E7%BA%B9%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/兔纹盾.png"
+    },
+    {
+      "id": "totk-477",
+      "sourceNumber": "477",
+      "name": "鱼纹盾",
+      "performance": "防御力3",
+      "location": "沃托里村",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%B1%BC%E7%BA%B9%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/鱼纹盾.png"
+    },
+    {
+      "id": "totk-478",
+      "sourceNumber": "478",
+      "name": "旅人盾",
+      "performance": "防御力4",
+      "location": "海拉鲁平原、奥尔汀山脉",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%97%85%E4%BA%BA%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/旅人盾.png"
+    },
+    {
+      "id": "totk-479",
+      "sourceNumber": "479",
+      "name": "士兵盾",
+      "performance": "防御力16",
+      "location": "海拉鲁平原、奥尔汀峡谷",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%A3%AB%E5%85%B5%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/士兵盾.png"
+    },
+    {
+      "id": "totk-480",
+      "sourceNumber": "480",
+      "name": "骑士盾",
+      "performance": "防御力40",
+      "location": "格鲁德沙漠、塔邦挞边境地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%AA%91%E5%A3%AB%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/骑士盾.png"
+    },
+    {
+      "id": "totk-481",
+      "sourceNumber": "481",
+      "name": "王族盾",
+      "performance": "防御力55",
+      "location": "海拉鲁平原、格鲁德高地地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%8E%8B%E6%97%8F%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/王族盾.png"
+    },
+    {
+      "id": "totk-482",
+      "sourceNumber": "482",
+      "name": "森民盾",
+      "performance": "防御力30",
+      "location": "海拉鲁大森林",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%A3%AE%E6%B0%91%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/森民盾.png"
+    },
+    {
+      "id": "totk-483",
+      "sourceNumber": "483",
+      "name": "卓拉盾",
+      "performance": "防御力24",
+      "location": "拉聂尔大水源、拉聂尔大水源上空",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%8D%93%E6%8B%89%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/卓拉盾.png"
+    },
+    {
+      "id": "totk-484",
+      "sourceNumber": "484",
+      "name": "风筝盾",
+      "performance": "防御力14",
+      "location": "海布拉山脉、塔邦挞边境",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%A3%8E%E7%AD%9D%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/风筝盾.png"
+    },
+    {
+      "id": "totk-485",
+      "sourceNumber": "485",
+      "name": "格鲁德盾",
+      "performance": "防御力28",
+      "location": "格鲁德沙漠、格鲁德高地",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%A0%BC%E9%B2%81%E5%BE%B7%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/格鲁德盾.png"
+    },
+    {
+      "id": "totk-486",
+      "sourceNumber": "486",
+      "name": "太阳盾",
+      "performance": "防御力35",
+      "location": "格鲁德沙漠、格鲁德高地",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%A4%AA%E9%98%B3%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/太阳盾.png"
+    },
+    {
+      "id": "totk-487",
+      "sourceNumber": "487",
+      "name": "七宝盾",
+      "performance": "防御力48",
+      "location": "格鲁德小镇",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E4%B8%83%E5%AE%9D%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/七宝盾.png"
+    },
+    {
+      "id": "totk-488",
+      "sourceNumber": "488",
+      "name": "护心盾",
+      "performance": "防御力16",
+      "location": "东哈特尔、西哈特尔",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%8A%A4%E5%BF%83%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/护心盾.png"
+    },
+    {
+      "id": "totk-489",
+      "sourceNumber": "489",
+      "name": "海风盾",
+      "performance": "防御力65",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%B5%B7%E9%A3%8E%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/海风盾.png"
+    },
+    {
+      "id": "totk-490",
+      "sourceNumber": "490",
+      "name": "生锈的盾",
+      "performance": "防御力3",
+      "location": "海拉鲁平原 东哈特尔",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E7%94%9F%E9%94%88%E7%9A%84%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/生锈的盾.png"
+    },
+    {
+      "id": "totk-491",
+      "sourceNumber": "491",
+      "name": "近卫盾",
+      "performance": "防御力70",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E8%BF%91%E5%8D%AB%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/近卫盾.png"
+    },
+    {
+      "id": "totk-492",
+      "sourceNumber": "492",
+      "name": "波克盾",
+      "performance": "防御力3",
+      "location": "海拉鲁平原 海布拉山脉",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E6%B3%A2%E5%85%8B%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/波克盾.png"
+    },
+    {
+      "id": "totk-493",
+      "sourceNumber": "493",
+      "name": "尖刺波克盾",
+      "performance": "防御力10",
+      "location": "海拉鲁平原 东哈特尔",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%B0%96%E5%88%BA%E6%B3%A2%E5%85%8B%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/尖刺波克盾.png"
+    },
+    {
+      "id": "totk-494",
+      "sourceNumber": "494",
+      "name": "龙骨波克盾",
+      "performance": "防御力25",
+      "location": "格鲁德高地、格鲁德沙漠",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%BE%99%E9%AA%A8%E6%B3%A2%E5%85%8B%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/龙骨波克盾.png"
+    },
+    {
+      "id": "totk-495",
+      "sourceNumber": "495",
+      "name": "蜥蜴盾",
+      "performance": "防御力15",
+      "location": "拉聂尔大水源、费罗尼海",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E8%9C%A5%E8%9C%B4%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/蜥蜴盾.png"
+    },
+    {
+      "id": "totk-496",
+      "sourceNumber": "496",
+      "name": "强力蜥蜴盾",
+      "performance": "防御力22",
+      "location": "塔邦挞大雪原、卡卡利科废矿",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%BC%BA%E5%8A%9B%E8%9C%A5%E8%9C%B4%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/强力蜥蜴盾.png"
+    },
+    {
+      "id": "totk-497",
+      "sourceNumber": "497",
+      "name": "钢铁蜥蜴盾",
+      "performance": "防御力35",
+      "location": "格鲁德沙漠、拉聂尔山",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E9%92%A2%E9%93%81%E8%9C%A5%E8%9C%B4%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/钢铁蜥蜴盾.png"
+    },
+    {
+      "id": "totk-498",
+      "sourceNumber": "498",
+      "name": "左纳尼乌姆之盾",
+      "performance": "防御力11",
+      "location": "哈特尔天空诸岛、奥尔汀天空诸岛",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%B7%A6%E7%BA%B3%E5%B0%BC%E4%B9%8C%E5%A7%86%E4%B9%8B%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/左纳尼乌姆之盾.png"
+    },
+    {
+      "id": "totk-499",
+      "sourceNumber": "499",
+      "name": "左纳尼乌姆之硬盾",
+      "performance": "防御力26",
+      "location": "拉聂尔天空诸岛、洛美岛",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%B7%A6%E7%BA%B3%E5%B0%BC%E4%B9%8C%E5%A7%86%E4%B9%8B%E7%A1%AC%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/左纳尼乌姆之硬盾.png"
+    },
+    {
+      "id": "totk-500",
+      "sourceNumber": "500",
+      "name": "左纳尼乌姆之坚盾",
+      "performance": "防御力50",
+      "location": "不详",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%B7%A6%E7%BA%B3%E5%B0%BC%E4%B9%8C%E5%A7%86%E4%B9%8B%E5%9D%9A%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/左纳尼乌姆之坚盾.png"
+    },
+    {
+      "id": "totk-501",
+      "sourceNumber": "501",
+      "name": "莱尼尔盾",
+      "performance": "防御力30",
+      "location": "海拉鲁平原、中央海拉鲁地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E8%8E%B1%E5%B0%BC%E5%B0%94%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/莱尼尔盾.png"
+    },
+    {
+      "id": "totk-502",
+      "sourceNumber": "502",
+      "name": "兽王盾",
+      "performance": "防御力44",
+      "location": "费罗尼草原、奥尔汀峡谷地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%85%BD%E7%8E%8B%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/兽王盾.png"
+    },
+    {
+      "id": "totk-503",
+      "sourceNumber": "503",
+      "name": "兽神盾",
+      "performance": "防御力62",
+      "location": "阿卡莱高原、中央海拉鲁地底",
+      "detailUrl": "https://wiki.biligame.com/zelda2/%E5%85%BD%E7%A5%9E%E7%9B%BE",
+      "imageUrl": "/images/王国之泪/兽神盾.png"
+    }
+  ]
+}
