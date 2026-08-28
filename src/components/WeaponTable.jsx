@@ -11,9 +11,13 @@ function WeaponStat({ performance }) {
 
 function WeaponImage({ weapon }) {
   const [failed, setFailed] = useState(false);
+  const imageUrl = weapon.imageUrl
+    ? `${import.meta.env.BASE_URL}${weapon.imageUrl.replace(/^\/+/, "")}`
+    : "";
+
   return (
     <ItemBG state={weapon.acquired ? "equipped" : "filled"} size={96} className="weapon-item-bg">
-      {weapon.imageUrl && !failed ? <img className="weapon-image" src={weapon.imageUrl} alt={weapon.name} loading="lazy" onError={() => setFailed(true)} /> : <span className="image-placeholder">{weapon.imageUrl ? "加载失败" : "待获取"}</span>}
+      {imageUrl && !failed ? <img className="weapon-image" src={imageUrl} alt={weapon.name} loading="lazy" onError={() => setFailed(true)} /> : <span className="image-placeholder">{imageUrl ? "加载失败" : "待获取"}</span>}
     </ItemBG>
   );
 }
